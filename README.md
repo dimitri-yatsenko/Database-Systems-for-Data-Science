@@ -30,11 +30,11 @@ Data integrity. Database normalization.
 
 ### Week 9 (Oct 15) - No class - Fall Break
 
-### Week 10 (Oct 23) - No class - Work on projects.
+### Week 10-12 (Oct 22, Oct 29, Nov 5) 
+Advanced database design and queries. Modeling complex relationships. Multi-table queries.
 
-### Weeks 11-15 (Oct 29, Nov 5, 12, 19, 26)
-Advanced database design and queries. Modeling complex relationships.
-Multi-table queries. Indexes. Query optimization. Transaction processing.
+### Weeks 13-15 (Nov 12, 19, 26)
+Indexes. Query optimization. Transaction processing.
 Final Project.
 
 
