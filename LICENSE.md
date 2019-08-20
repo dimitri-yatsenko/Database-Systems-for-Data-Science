@@ -1,6 +1,7 @@
 Attribution-NonCommercial-ShareAlike 4.0 International
-
 =======================================================================
+
+https://creativecommons.org/licenses/by-sa/4.0/
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
