@@ -3,7 +3,8 @@
 
 ## Syllabus
 
-Organization concepts and terminology of data models and the underlying data structures needed to support them. Presentation of the relational database management system including an introduction to SQL programming, normalization and database design. Introduction to the programming interface to databases.
+Organization concepts and terminology of data models and the underlying data architectures needed to support them. 
+Presentation of the relational database management systems including an introduction to SQL programming: relational database design and data queries with integration into application programming languages, with Python used for examples. 
 
 The course will include practical exercises and will be graded based on a few indvidual and group projects on real-world datasets.
 
