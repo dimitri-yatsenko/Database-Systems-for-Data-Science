@@ -4,7 +4,7 @@ Recent Discussions
 The most in-demand Skills for Data Scientists:
 https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db
 
-Great debate: 
+"The Great Debate" (Michael Stonebreaker): 
 https://www.enterprisedb.com/blog/those-who-forget-past-are-doomed-repeat-it
 
 Databases for Data Science:
