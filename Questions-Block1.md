@@ -1,3 +1,14 @@
+Current public discussions
+-------------------------
+*Most in-demand skills for Data Scientists*:
+https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db
+
+*Those Who Forget the Past* by Michael Stonebreaker: 
+https://www.enterprisedb.com/blog/those-who-forget-past-are-doomed-repeat-it
+
+*Databases for Data Science* (a PyData talk)
+https://www.youtube.com/watch?v=4rT0xjmWCCo
+
 Questions for Block 1 (Lectures 1-2)
 ------------------------------------
 
@@ -19,4 +30,5 @@ Questions for Block 1 (Lectures 1-2)
 1. Define data *consistency* in the context of data systems with distributed access. It is the "C" in the CAP theorem.
 1. Describe an example of a data management process that does not support data consistency.
 1. What is a *database server*? 
-
+1. Describe three distinct ways to interact with a relational database.
+1. What are typical responsibilities of a *database administrator*?
