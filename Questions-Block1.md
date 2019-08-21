@@ -31,4 +31,4 @@ Questions for Block 1 (Lectures 1-2)
 1. Describe an example of a data management process that does not support data consistency.
 1. What is a *database server*? 
 1. Describe three distinct ways to interact with a relational database.
-1. What are typical responsibilities of a *database administrator*?
+1. What are some typical responsibilities of a *database administrator*?

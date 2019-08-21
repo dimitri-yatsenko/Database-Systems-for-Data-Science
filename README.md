@@ -11,14 +11,18 @@ Presentation of the relational database management systems including an introduc
 
 The course will include practical exercises and will be graded based on a few indvidual and group projects on real-world datasets.
 
-*Textbook:* Multiple sources will be used for the course and all matrials and references will be provided in the lectures.
-* Quick overview of current trends: Guy Harrison, *Next Generation Databases: NoSQL and BigData* ISBN-13: 978-1484213308, ISBN-10: 1484213300
-* Comprehensive introduction into database systems from the Computer Science undergraduate/grad perspective: Elmasri & Navathe, *Fundamentals of Database Systems* Person; 7th Edition (2015), ISBN-10: 1484213300, ISBN-13: 978-0133970777
-* Practical skills for querying relational databases: John Viescas *SQL Queries for Mere Mortals*, Addison-Wesley Professional; 4 edition (2018). ISBN-10: 0134858336, ISBN-13: 978-0134858333
-* Practical skills for database design: Michael Hernandez, *Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design*; 3rd edition (2013). ISBN-13: 978-0321884497, ISBN-10: 9780321884497
+**Textbook:** None required. Multiple sources will be used for the course and all matrials and references will be provided in the lectures.
+* Quick overview of current trends: 
+  Guy Harrison, *Next Generation Databases: NoSQL and BigData* ISBN-13: 978-1484213308, ISBN-10: 1484213300
+* Comprehensive introduction into database systems from the Computer Science undergraduate/grad perspective: 
+  Elmasri & Navathe, *Fundamentals of Database Systems* Person; 7th Edition (2015), ISBN-10: 1484213300, ISBN-13: 978-0133970777
+* Practical skills for querying relational databases: 
+  John Viescas *SQL Queries for Mere Mortals*, Addison-Wesley Professional; 4 edition (2018). ISBN-10: 0134858336, ISBN-13: 978-0134858333
+* Practical skills for database design: 
+  Michael Hernandez, *Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design*; 3rd edition (2013). ISBN-13: 978-0321884497, ISBN-10: 9780321884497
 
 
-*Instructor:* Dr. Dimitri Yatsenko (yatsend@stthom.edu)
+*Instructor:* Dimitri Yatsenko (yatsend@stthom.edu)
 
 ### Weeks 1-2: (Aug 20, 27)
 Databases in data science. Data models: diverse ways to think about data: hiearchical, network, relational, object, graph, and document data models.
