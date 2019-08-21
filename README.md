@@ -1,7 +1,10 @@
 # Database-Systems-for-Data-Science
 **MS Applied Data Science**
 
+**Room SHP 146**
+
 ## Syllabus
+
 
 Organization concepts and terminology of data models and the underlying data architectures needed to support them. 
 Presentation of the relational database management systems including an introduction to SQL programming: relational database design and data queries with integration into application programming languages, with Python used for examples. 
