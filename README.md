@@ -45,6 +45,14 @@ Querying databases from a host programming language for data analysis (Python).
 Client interfaces.
 Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELETE`, `UPDATE`, and `SELECT` statements.
 
+**Assignment 1:**
+You are welcome to use any SQL client to connect to the database as discussed in class. I recommend using Jupyter for ease of interaction.
+
+1. Installation of SQL Magic for Jupyter
+2. Connecting to the database from Jupyter
+3. Assignment 1
+
+
 ### Weeks 7-8 (Oct 1, 8)
 Database design from conceptual modeling to implementation.
 Data integrity. Database normalization.
