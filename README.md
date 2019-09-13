@@ -48,9 +48,9 @@ Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELETE`, `UPDATE`, and `
 **Assignment 1:**
 You are welcome to use any SQL client to connect to the database as discussed in class. I recommend using Jupyter for ease of interaction.
 
-1. Installation of SQL Magic for Jupyter
-2. Connecting to the database from Jupyter
-3. Assignment 1
+1. [Installation of SQL Magic for Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Install-SQL-Magic.ipynb)
+2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
+3. [Assignment 1](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-01.ipynb)
 
 
 ### Weeks 7-8 (Oct 1, 8)
