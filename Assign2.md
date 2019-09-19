@@ -6,7 +6,7 @@ Create a simple schema with referential integrity constraints (foreign keys) and
 
 2. Insert several records in each table (at least 10 in `Person`, at least 4 in `Course`, at least 8 in `Section`, at least 30 in `Enroll`)
 
-3. Modify the table `Section` so that the table its `instructor` field should only contain valid `person_id`s from `Person`. To modify a table, you should use the `DROP TABLE` command and `CREATE TABLE` again with the new definition.
+3. Modify the table `Section` so that its `instructor` column should only contain valid `person_id`s from `Person`. To modify a table, you should use the `DROP TABLE` command and `CREATE TABLE` again with the new definition.
 
 4. Produce an `INSERT` statement that violates a foreign key constraint and is prevented by the database.
 
