@@ -2,7 +2,7 @@ Assignment 2
 ------------
 Create a simple schema with referential integrity constraints (foreign keys) and uniqueness constraints (primary keys and additional unique indexes)
 
-1. Complete the definition of the Enrollment database presented in class: [presentation](Enroll.pdf) and [notebook](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Enroll.ipynb)
+1. Complete the definition of the Enrollment database presented in class: [presentation](EnrollSchema.pdf) and [notebook](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Enroll.ipynb)
 
 2. Insert several records in each table (at least 10 in `Person`, at least 4 in `Course`, at least 8 in `Section`, at least 30 in `Enroll`)
 
