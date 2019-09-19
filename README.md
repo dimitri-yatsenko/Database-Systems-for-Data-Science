@@ -51,6 +51,8 @@ You are welcome to use any SQL client to connect to the database as discussed in
 1. [Installation of SQL Magic for Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Install-SQL-Magic.ipynb)
 2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
 3. [Assignment 1](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-01.ipynb)
+4. [Question Block1](Block1.md)
+5. [Assignment 2](Assign2.md)
 
 
 ### Weeks 7-8 (Oct 1, 8)
