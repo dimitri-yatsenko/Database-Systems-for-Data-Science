@@ -12,4 +12,4 @@ Create a simple schema with referential integrity constraints (foreign keys) and
 
 5. Produce a `DELETE` statement that violates a foreign key constraint and is prevented by the database.
 
-6. Extend the database to represent textbooks selected for each entry in `Section`. Each textbook entry should contain its ISBN, title, author, publisher, and publication year. Assume that each section has exactly one textbook.
+6. Extend the database to represent textbooks selected for each `Section`. Each textbook entry should contain its ISBN, title, author, publisher, and publication year. Assume that each section has exactly one textbook.
