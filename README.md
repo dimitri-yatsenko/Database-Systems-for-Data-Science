@@ -45,7 +45,7 @@ Querying databases from a host programming language for data analysis (Python).
 Client interfaces.
 Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELETE`, `UPDATE`, and `SELECT` statements.
 
-**Assignment 1:**
+**Assignments:**
 You are welcome to use any SQL client to connect to the database as discussed in class. I recommend using Jupyter for ease of interaction.
 
 1. [Installation of SQL Magic for Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Install-SQL-Magic.ipynb)
@@ -53,6 +53,7 @@ You are welcome to use any SQL client to connect to the database as discussed in
 3. [Assignment 1](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-01.ipynb)
 4. [Question Block1](Block1.md)
 5. [Assignment 2](Assign2.md)
+6. [Assignment 3](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-03.ipynb)
 
 
 ### Weeks 7-8 (Oct 1, 8)
