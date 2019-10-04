@@ -3,7 +3,7 @@
 
 **Room SHP 146**
 
-**Instructor:** Dimitri Yatsenko (yatsend@stthom.edu)
+**Instructor:** Dimitri Yatsenko
 
 ## Syllabus
 
@@ -54,6 +54,7 @@ You are welcome to use any SQL client to connect to the database as discussed in
 4. [Question Block1](Block1.md)
 5. [Assignment 2](Assign2.md)
 6. [Assignment 3](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-03.ipynb)
+7. [Assignment 4](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-04.ipynb)
 
 
 ### Weeks 7-8 (Oct 1, 8)
