@@ -64,6 +64,7 @@ Data integrity. Database normalization.
 ### Week 9 (Oct 15) - No class - Fall Break
 
 ### Week 10-12 (Oct 22, Oct 29, Nov 5) 
+[Assignment 5](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-05.ipynb)
 Advanced database design and queries. Modeling complex relationships. Multi-table queries.
 
 ### Weeks 13-15 (Nov 12, 19, 26)
