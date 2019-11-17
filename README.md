@@ -70,13 +70,17 @@ Advanced database design and queries. Modeling complex relationships. Multi-tabl
 Due Nov 12.
 
 
- Multi-table queries. Summarizing data. Using `LEFT JOIN` in conjunction  with `GROUP BY` and  the `HAVING` clause.
+Multi-table queries. Summarizing data. Using `LEFT JOIN` in conjunction  with `GROUP BY` and  the `HAVING` clause.
 
 Assignment 6. "Problems for you to solve" from Chapters 12, 13, and 14. Due Nov 12.
 
 
+
+
 ### Weeks 13-15 (Nov 12, 19, 26)
 Indexes. Query optimization. Transaction processing.
+
 Final Project.
+* 
 
 
