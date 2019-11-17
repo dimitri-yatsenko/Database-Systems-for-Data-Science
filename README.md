@@ -69,18 +69,27 @@ Advanced database design and queries. Modeling complex relationships. Multi-tabl
 [Assignment 5](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-05.ipynb)
 Due Nov 12.
 
+Indexes. 
 
 Multi-table queries. Summarizing data. Using `LEFT JOIN` in conjunction  with `GROUP BY` and  the `HAVING` clause.
 
 Assignment 6. "Problems for you to solve" from Chapters 12, 13, and 14. Due Nov 12.
+[Assignment 5](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-06.ipynb)
+Due Nov 12.
 
 
 
 
 ### Weeks 13-15 (Nov 12, 19, 26)
-Indexes. Query optimization. Transaction processing.
 
-Final Project.
-* 
+Final Project -- group or individual.
+
+1. The project must include a database of sufficient complexity: at least 5 related tables
+2. Design an original database schema using principles and techniques from the course.
+3. Write a Python script to populate the database and to model common scenarios for data entry
+4. Write at least ten interesting, complex queries, including joins, subqueries, and aggregation functions.
+5. Present in class
+
+For the group project, the group has tentatively selected the Jeoparty dataset as the basis for the database, available here: https://github.com/jwolle1/jeopardy_clue_dataset
 
 
