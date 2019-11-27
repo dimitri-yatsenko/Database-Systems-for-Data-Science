@@ -84,12 +84,18 @@ Due Nov 12.
 
 Final Project -- group or individual.
 
-1. The project must include a database of sufficient complexity: at least 5 related tables
+1. The project must include a database of sufficient complexity: at least 5 related tables. Produce a diagram of your schema.
 2. Design an original database schema using principles and techniques from the course.
 3. Write a Python script to populate the database and to model common scenarios for data entry
 4. Write at least ten interesting, complex queries, including joins, subqueries, and aggregation functions.
 5. Present in class
 
+Execute all code in each person's database account. Students do not have access to one another's databases. 
+
+
 For the group project, the group has tentatively selected the Jeoparty dataset as the basis for the database, available here: https://github.com/jwolle1/jeopardy_clue_dataset
+
+In a subsequent group meeting, the team chose to implement a Customer Relationship Management system. 
+
 
 
