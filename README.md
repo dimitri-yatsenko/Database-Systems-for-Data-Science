@@ -1,26 +1,20 @@
-# Database-Systems-for-Data-Science (Fall 2019)
+# Database-Systems-for-Data-Science (Fall 2020)
 **MS Applied Data Science**
 
-**Room SHP 146**
-
-**Instructor:** Dimitri Yatsenko
+**Instructor:** Dimitri Yatsenko, Ph.D.
 
 ## Syllabus
-
 
 Organization concepts and terminology of data models and the underlying data architectures needed to support them. 
 Presentation of the relational database management systems including an introduction to SQL programming: relational database design and data queries with integration into application programming languages, with Python used for examples. 
 
 The course will include practical exercises and will be graded based on a few indvidual and group projects on real-world datasets.
 
-**Textbook:** None required. Multiple sources will be used for the course and all matrials and references will be provided in the lectures.
-* Quick overview of current trends: 
 
-   Guy Harrison, *Next Generation Databases: NoSQL and BigData* ISBN-13: 978-1484213308, ISBN-10: 1484213300
+**Textbook:** 
+This courses focuses on learning through examples and relevant concepts will be introduced while applying them. 
 
-* Comprehensive introduction into database systems from the Computer Science undergraduate/grad perspective: 
-
-   Elmasri & Navathe, *Fundamentals of Database Systems* Person; 7th Edition (2015), ISBN-10: 1484213300, ISBN-13: 978-0133970777
+We will use two practical books for learning SQL, which will provide us with examples and exercises.
 
 * Practical skills for querying relational databases: 
 
@@ -30,20 +24,24 @@ The course will include practical exercises and will be graded based on a few in
 
    Michael Hernandez, *Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design*; 3rd edition (2013). ISBN-13: 978-0321884497, ISBN-10: 9780321884497
 
+* Comprehensive introduction into database systems from the Computer Science undergraduate/grad perspective: 
+
+   Elmasri & Navathe, *Fundamentals of Database Systems* Person; 7th Edition (2015), ISBN-10: 1484213300, ISBN-13: 978-0133970777
 
 
-### Weeks 1-2: (Aug 20, 27)
+
+
+### Weeks 1-2: (Aug 24, 31)
 Databases in data science. Data models: diverse ways to think about data: hiearchical, network, relational, object, graph, and document data models.
 History of datatabases and database technologies. Next-generation databases.
 
-A Taste of SQL: Database access. Creating SQL tables and inserting data. Simple queries.
+A Taste of SQL: Database access. Creating SQL tables and inserting data. Simple queries. sqlite and 
 
-### Week 3. (Sep 3) - No class
+### Week 3. (Sep 7) - Labor Day. 
 
 ### Weeks 4-6 (Sep 10, 17, 24)
 Querying databases from a host programming language for data analysis (Python).
-Client interfaces.
-Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELETE`, `UPDATE`, and `SELECT` statements.
+Client interfaces.  Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELETE`, `UPDATE`, and `SELECT` statements.
 
 **Assignments:**
 You are welcome to use any SQL client to connect to the database as discussed in class. I recommend using Jupyter for ease of interaction.
