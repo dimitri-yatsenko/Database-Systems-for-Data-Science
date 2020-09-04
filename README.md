@@ -34,6 +34,12 @@ History of datatabases and database technologies. Next-generation databases.
 
 A Taste of SQL: Database access. Creating SQL tables and inserting data. Simple queries. sqlite and mysql.
 
+Homework 1 (due Sep 10): 
+1. Answer questions in [Block1.md](Block 1). Submit as a PDF file on Slack. Send a copy to the TA as well. 
+2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
+
+
+
 ### Weeks 4-6 (Sep 8, 15, 22)
 Querying databases from a host programming language for data analysis (Python).
 Client interfaces.  Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELETE`, `UPDATE`, and `SELECT` statements.
@@ -73,7 +79,7 @@ Due Nov 12.
 
 
 
-### Weeks 13-15 (Nov 12, 19, 26)
+### Weeks 13-15 (Nov 10, 17, 24)
 
 Final Project -- group or individual.
 
