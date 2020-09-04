@@ -36,8 +36,9 @@ A Taste of SQL: Database access. Creating SQL tables and inserting data. Simple 
 
 Homework 1 (due Sep 10): 
 1. Answer questions in [Block1.md](Block 1). Submit as a PDF file on Slack. Send a copy to the TA as well. 
+1. [Installation of SQL Magic for Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Install-SQL-Magic.ipynb)
+2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
 2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
-
 
 
 ### Weeks 4-6 (Sep 8, 15, 22)
@@ -47,10 +48,7 @@ Client interfaces.  Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELE
 **Assignments:**
 You are welcome to use any SQL client to connect to the database as discussed in class. I recommend using Jupyter for ease of interaction.
 
-1. [Installation of SQL Magic for Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Install-SQL-Magic.ipynb)
-2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
 3. [Assignment 1](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-01.ipynb)
-4. [Question Block1](Block1.md)
 5. [Assignment 2](Assign2.md)
 6. [Assignment 3](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-03.ipynb)
 7. [Assignment 4](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-04.ipynb)
