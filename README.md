@@ -51,7 +51,7 @@ Client interfaces.  Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELE
 You are welcome to use any SQL client to connect to the database as discussed in class. I recommend using Jupyter for ease of interaction.
 
 1. Chapters 4-6
-5. [Assignment 2](notebooks/Assign-02.ipynb)  -- Due Sep 24
+5. [Assignment 2](notebooks/Assign-02.ipynb)  -- Due Sep 24.  Print as PDF and send by Slack or email.
 6. Assignment 3 -- Due Oct 1.
 
 
