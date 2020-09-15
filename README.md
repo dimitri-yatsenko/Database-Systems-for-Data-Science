@@ -48,10 +48,8 @@ Client interfaces.  Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELE
 **Assignments:**
 You are welcome to use any SQL client to connect to the database as discussed in class. I recommend using Jupyter for ease of interaction.
 
-3. [Assignment 1](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-01.ipynb)
-5. [Assignment 2](Assign2.md)
-6. [Assignment 3](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-03.ipynb)
-7. [Assignment 4](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-04.ipynb)
+5. [Assignment 2](notebooks/Assign-02.ipynb)  -- Due Sep 24
+6. Assignment 3 -- Due Oct 1.
 
 
 ### Weeks 7-8 (Sep 29, Oct 6)
@@ -62,37 +60,10 @@ Data integrity. Database normalization.
 
 ### Week 10-12 (Oct 20, Oct 27, Nov 3) 
 Advanced database design and queries. Modeling complex relationships. Multi-table queries.
-
-[Assignment 5](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-05.ipynb)
-Due Nov 12.
-
 Indexes. 
-
 Multi-table queries. Summarizing data. Using `LEFT JOIN` in conjunction  with `GROUP BY` and  the `HAVING` clause.
 
-Assignment 6. "Problems for you to solve" from Chapters 12, 13, and 14. Due Nov 12.
-[Assignment 5](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Assign-06.ipynb)
-Due Nov 12.
-
-
-
-
 ### Weeks 13-15 (Nov 10, 17, 24)
-
 Final Project -- group or individual.
-
-1. The project must include a database of sufficient complexity: at least 5 related tables. Produce a diagram of your schema.
-2. Design an original database schema using principles and techniques from the course.
-3. Write a Python script to populate the database and to model common scenarios for data entry
-4. Write at least ten interesting, complex queries, including joins, subqueries, and aggregation functions.
-5. Present in class
-
-Execute all code in each person's database account. Students do not have access to one another's databases. 
-
-
-For the group project, the group has tentatively selected the Jeoparty dataset as the basis for the database, available here: https://github.com/jwolle1/jeopardy_clue_dataset
-
-In a subsequent group meeting, the team chose to implement a Customer Relationship Management system. 
-
 
 
