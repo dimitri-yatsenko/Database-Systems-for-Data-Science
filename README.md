@@ -35,6 +35,7 @@ History of datatabases and database technologies. Next-generation databases.
 A Taste of SQL: Database access. Creating SQL tables and inserting data. Simple queries. sqlite and mysql.
 
 Homework 1 (due Sep 10): 
+
 0. Chapters 1-3
 1. Answer questions in [Block1.md](Block 1). Submit as a PDF file on Slack. Send a copy to the TA as well. 
 1. [Installation of SQL Magic for Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Install-SQL-Magic.ipynb)
@@ -49,7 +50,7 @@ Client interfaces.  Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELE
 **Assignments:**
 You are welcome to use any SQL client to connect to the database as discussed in class. I recommend using Jupyter for ease of interaction.
 
-0. Chapters 4-6
+1. Chapters 4-6
 5. [Assignment 2](notebooks/Assign-02.ipynb)  -- Due Sep 24
 6. Assignment 3 -- Due Oct 1.
 
