@@ -52,12 +52,12 @@ You are welcome to use any SQL client to connect to the database as discussed in
 
 1. Chapters 4-6
 5. [Assignment 2](notebooks/Assign-02.ipynb)  -- Due Sep 24.  Print as PDF and send by Slack or email.
-6. Assignment 3 -- Due Oct 1.
 
 
 ### Weeks 7-8 (Sep 29, Oct 6)
 Database design from conceptual modeling to implementation.
 Data integrity. Database normalization.
+6. [Assignment 3](notebooks/Assign-03.ipynb) -- Due Oct 1.  Print as PDF and send by Slack or email.
 
 ### Week 9 (Oct 13) - No class - Fall Break
 
