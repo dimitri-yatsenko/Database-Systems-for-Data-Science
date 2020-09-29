@@ -51,20 +51,22 @@ Client interfaces.  Work with individual tables: `CREATE`/`DROP` `INSERT`, `DELE
 You are welcome to use any SQL client to connect to the database as discussed in class. I recommend using Jupyter for ease of interaction.
 
 1. Chapters 4-6
-5. [Assignment 2](notebooks/Assign-02.ipynb)  -- Due Sep 24.  Print as PDF and send by Slack or email.
-
+5. [Assignment 2](notebooks/Assign-02.ipynb) -- Due Sep 24.  Print as PDF and send by Slack or email.
 
 ### Weeks 7-8 (Sep 29, Oct 6)
-Database design from conceptual modeling to implementation.
-Data integrity. Database normalization.
+Advanced database design and queries. Modeling complex relationships. Multi-table queries.
+Subqueries, joins. 
+Summarizing data. Using `LEFT JOIN` in conjunction  with `GROUP BY` and  the `HAVING` clause.
+
 6. [Assignment 3](notebooks/Assign-03.ipynb) -- Due Oct 1.  Print as PDF and send by Slack or email.
+6. [Assignment 4](notebooks/Assign-04.ipynb) -- Due Oct 9.  Print as PDF and send by Slack or email.
 
 ### Week 9 (Oct 13) - No class - Fall Break
+Database design from conceptual modeling to implementation.
+Indexes. 
+Data integrity. Database normalization.
 
 ### Week 10-12 (Oct 20, Oct 27, Nov 3) 
-Advanced database design and queries. Modeling complex relationships. Multi-table queries.
-Indexes. 
-Multi-table queries. Summarizing data. Using `LEFT JOIN` in conjunction  with `GROUP BY` and  the `HAVING` clause.
 
 ### Weeks 13-15 (Nov 10, 17, 24)
 Final Project -- group or individual.
