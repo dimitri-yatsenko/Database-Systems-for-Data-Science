@@ -60,7 +60,7 @@ Summarizing data. Using `LEFT JOIN` in conjunction  with `GROUP BY` and  the `HA
 
 6. [Assignment 3](notebooks/Assign-03.ipynb) -- Due Oct 1.  Print as PDF and send by Slack or email.
 6. [Assignment 4](notebooks/Assign-04.ipynb) -- Due Oct 9.  Print as PDF and send by Slack or email.
-6. [Assignment 5](notebooks/Assign-05.ipynb) -- Due Oct 16. DataJoint queries with aggregation.  Print as PDF and send by Slack or email.
+6. [Assignment 5](notebooks/Assign-05.ipynb) -- Due Oct 21. DataJoint queries with aggregation.  Print as PDF and send by Slack or email.
 
 ### Week 9 (Oct 13) - No class - Fall Break
 Database design from conceptual modeling to implementation.
