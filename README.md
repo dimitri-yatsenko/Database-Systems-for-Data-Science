@@ -69,7 +69,10 @@ Data integrity. Database normalization.
 
 ### Week 10-12 (Oct 20, Oct 27, Nov 3) 
 9. [Assignment 6](notebooks/Assign-06.ipynb) -- Due Oct 28. SQL queries with inner joins and subqueries.
+9. [Assignment 7](notebooks/Assign-07.ipynb) -- Due Nov 12. SQL queries with LEFT JOIN, GROUP BY, and HAVING.
 
+10. [Indexes](notebooks/Indexes.ipynb)
+11. [DatabaseDesign1](notebooks/
 
 ### Weeks 13-15 (Nov 10, 17, 24)
 Final Project -- group or individual.
