@@ -72,7 +72,7 @@ Data integrity. Database normalization.
 9. [Assignment 7](notebooks/Assign-07.ipynb) -- Due Nov 12. SQL queries with LEFT JOIN, GROUP BY, and HAVING.
 
 10. [Indexes](notebooks/Indexes.ipynb)
-11. [DatabaseDesign1](notebooks/
+11. [DatabaseDesign1](notebooks/DatabaseDesign1,ipynb)
 
 ### Weeks 13-15 (Nov 10, 17, 24)
 Final Project -- group or individual.
