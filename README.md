@@ -74,6 +74,7 @@ Data integrity. Database normalization.
 
 ### Weeks 13-15 (Nov 10, 17, 24)
 11. [Assignment 8](notebooks/Assign-08,ipynb) -- Dun Nov 21. Database design and transactions.
-Final Project -- group or individual.
+
+Final Project.
 
 
