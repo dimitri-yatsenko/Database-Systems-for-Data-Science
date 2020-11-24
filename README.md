@@ -78,6 +78,9 @@ Data integrity. Database normalization.
 12. [UUIDs](notebooks/UUID.ipynb)
 13. [Hierarchies](notebooks/Hierarchies.ipynb)
 
+### Week 15, 16  (Nov 24, Dec 1)
+14. Review, Final project.
+
 Final Project.
 
 
