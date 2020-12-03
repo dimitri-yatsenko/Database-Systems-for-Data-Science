@@ -79,7 +79,7 @@ Data integrity. Database normalization.
 13. [Hierarchies](notebooks/Hierarchies.ipynb)
 
 ### Week 15, 16  (Nov 24, Dec 1)
-14. Review, Final project.
+14. Review, [Final project](notebooks/Final-Project.ipynb) due December 15 at 6 pm.
 
 Final Project.
 
