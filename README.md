@@ -14,15 +14,12 @@ The course will include practical exercises and will be graded based on a few in
 
 
 **Textbook:** 
-This courses focuses on learning through examples and relevant concepts will be introduced while applying them. 
 
-We will use two practical books for learning SQL, which will provide us with examples and exercises.
-
-1. Michael Hernandez, *Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design*; 4th edition (2020). 
+Michael Hernandez, *Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design*; 4th edition (2020). 
 ISBN-13: 978-0136788041
 ISBN-10: 0136788041
-  * https://learning.oreilly.com/library/view/database-design-for/9780136788133/
-  * https://www.amazon.com/Database-Design-Mere-Mortals-Anniversary/dp/0136788041
+* https://learning.oreilly.com/library/view/database-design-for/9780136788133/
+* https://www.amazon.com/Database-Design-Mere-Mortals-Anniversary/dp/0136788041
 
 ## Grading 
 8 Assignments/Projects
