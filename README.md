@@ -57,20 +57,26 @@ Additional slides and notes will be provided in class.
 |**F**|>=0%|
 
 
-### Weeks 1-2: (Aug 24, Aug 31)
+## Weeks 1-2: (Aug 24, Aug 31)
 Databases in data science. Data models: diverse ways to think about data: hiearchical, network, relational, object, graph, and document data models.
 History of datatabases and database technologies. Next-generation databases.
 
-A Taste of SQL: Database access. Creating SQL tables and inserting data. Simple queries. sqlite and mysql.
+Database access. Creating SQL tables and inserting data. Simple queries. sqlite and mysql.
 
-Homework 1 (due Sep 10): 
+Homework 1 (due Sep 7): 
 
-0. Chapters 1-3
-1. Answer questions in [Block1.md](Block 1). Submit as a PDF file on Slack. Send a copy to the TA as well. 
+0. Readings: 
+  * Harrington, Chapter 1, "The Database Environment"
+  * Hernandez, Chapter 1, "The Relational Database" 
+1. Answer questions in [Block1.md](Block 1). Submit as a PDF file as a direct message to the TA and the instructor on Slack.  
 1. [Installation of SQL Magic for Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Install-SQL-Magic.ipynb)
 2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
 2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
 
 
 
+### Key terms
+Database, database system, database server, data model, data integrity, data consistency, ACID, relational data model, SQL, imperative queries, schema.
 
+### Milestone skills
+Connect to the MySQL database provided for the class, create a simple table, and insert data into it.
