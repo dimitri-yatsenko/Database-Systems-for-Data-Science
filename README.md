@@ -24,11 +24,16 @@ We will also use a Slack channel. If you have not received access to any of thes
 The University provided you with a [Safari Books](https://www.oreilly.com) subscription account. Readings, examples, and projects will be selected from the following references:
 
 1. Michael Hernandez, *Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design*; 4th edition (2020).  ISBN-13: 978-0136788041 ISBN-10: 0136788041
+
   * https://learning.oreilly.com/library/view/database-design-for/9780136788133/
   * https://www.amazon.com/Database-Design-Mere-Mortals-Anniversary/dp/0136788041
+
 1. Jan L. Harrington, *Relational Database Design and Implementation*: 4th edition (2016)
+
   * https://learning.oreilly.com/library/view/relational-database-design/9780128499023/title_page.xhtml
+
 1. Josephine Bush, *Learn SQL Database Programming* (2020)
+
   * https://learning.oreilly.com/library/view/learn-sql-database/9781838984762/
 
 Additional slides and notes will be provided in class.
