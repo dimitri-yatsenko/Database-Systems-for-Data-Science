@@ -68,6 +68,23 @@ History of datatabases and database technologies. Next-generation databases.
 
 Database access. Creating SQL tables and inserting data. Simple queries. sqlite and mysql.
 
+Issue SQL queries from Jupyter using SQL Magic.
+
+Issuing SQL queries from Python code using a database client library, (`pymysql`). 
+
+`CREATE SCHEMA`, `CREATE TABLE`, `INSERT`, `DELETE`, `DROP TABLE`, `DROP SCHEMA`. 
+
+Create schemas and tables, insert rows, delete, and drop.
+
+Using the `faker` module to populate tables.
+
+Using `datajoint` as a high-level interface. 
+
+Datatypes: numerical, character strings, and enum. 
+
+Primary key. 
+
+
 Homework 1 (due Sep 7): 
 
 0. Readings: 
@@ -78,6 +95,10 @@ Homework 1 (due Sep 7):
 2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
 2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
 
+Homework 2 (due Sep 14)
+1. Create a `university` database 
+2. Create a table named `person` with basic attributes: name, date of birth, address, phone, 
+3. Using the `faker` module 
 
 
 ### Key terms
