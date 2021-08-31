@@ -96,6 +96,8 @@ Homework 1 (due Sep 7):
 2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
 
 Homework 2 (due Sep 14)
+0. Readings:
+  * Beauliue, Chapter 2: "Creating and Populating a Database"
 1. Create a `university` database 
 2. Create a table named `person` with basic attributes: name, date of birth, address, phone, 
 3. Using the `faker` module 
