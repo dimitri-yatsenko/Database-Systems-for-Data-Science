@@ -106,5 +106,8 @@ Homework 2 (due Sep 14)
 ### Key terms
 Database, database system, database server, data model, data integrity, data consistency, ACID, relational data model, SQL, imperative queries, schema.
 
-### Milestone skills
-Connect to the MySQL database provided for the class, create a simple table, and insert data into it.
+### Key skills
+* Connect to the MySQL database provided for the class, create a simple table, and insert data into it.
+* Issue queries in SQL (using the SQL magic in jupyter for quick SQL scripting) 
+* Execute queries with a client library (`pymysql`). Generate fake data. See notebook Fake-It.ipynb
+* Execute queries using DataJoint. See notebooks `DataJoint-config` and `DataJoint-Intro`.
