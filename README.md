@@ -96,6 +96,7 @@ Homework 1 (due Sep 7):
 2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
 
 Homework 2 (due Sep 14)
+
 0. Readings:
   * Beauliue, Chapter 2: "Creating and Populating a Database"
 1. Create a `university` database 
@@ -111,3 +112,21 @@ Database, database system, database server, data model, data integrity, data con
 * Issue queries in SQL (using the SQL magic in jupyter for quick SQL scripting) 
 * Execute queries with a client library (`pymysql`). Generate fake data. See notebook Fake-It.ipynb
 * Execute queries using DataJoint. See notebooks `DataJoint-config` and `DataJoint-Intro`.
+
+## Weeks 2-3: (Sep 7, Sep 14)
+Schema design. Simple queries. Foreign keys. Normalization.
+
+## Weeks 4-5
+Modeling relationships. 
+
+## Weeks 6-7
+Advanced queries.
+
+## Weeks 8-9:
+Transactional processing. Data serialization. Computations.
+
+## Weeks 10-11:
+Practice project.
+
+## Weeks 12-:
+Final project.
