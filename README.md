@@ -99,9 +99,10 @@ Homework 2 (due Sep 14)
 
 0. Readings:
   * Beauliue, Chapter 2: "Creating and Populating a Database"
+  * Generating fake data: https://towardsdatascience.com/generating-fake-data-with-python-c7a32c631b2a
 1. Create a `university` database 
 2. Create a table named `person` with basic attributes: name, date of birth, address, phone, 
-3. Using the `faker` module 
+3. Using the `faker` module, populate the `person` table with 3000 records.
 
 
 ### Key terms
