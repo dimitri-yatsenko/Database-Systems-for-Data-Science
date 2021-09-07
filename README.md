@@ -25,7 +25,7 @@ The University provided you with a [Safari Books](https://www.oreilly.com) subsc
 
 1. Jan L. Harrington, *Relational Database Design and Implementation*: 4th edition (2016)
 
-  * https://learning.oreilly.com/library/view/relational-database-design/9780128499023/title_page.xhtml
+  * https://learning.oreilly.com/library/view/relational-database-design/9780128499023/
 
 2. Alan Beaulieu, Learning SQL, 3rd Edition (2020)
 
@@ -34,8 +34,6 @@ The University provided you with a [Safari Books](https://www.oreilly.com) subsc
 3. Michael Hernandez, *Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design*; 4th edition (2020).  ISBN-13: 978-0136788041 ISBN-10: 0136788041
 
   * https://learning.oreilly.com/library/view/database-design-for/9780136788133/
-  * https://www.amazon.com/Database-Design-Mere-Mortals-Anniversary/dp/0136788041
-
 
 4. Josephine Bush, *Learn SQL Database Programming* (2020)
 
@@ -85,7 +83,7 @@ Datatypes: numerical, character strings, and enum.
 Primary key. 
 
 
-Homework 1 (due Sep 7): 
+### Homework 1 (due Sep 7): 
 
 0. Readings: 
   * Harrington, Chapter 1, "The Database Environment"
@@ -95,7 +93,7 @@ Homework 1 (due Sep 7):
 2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
 2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
 
-Homework 2 (due Sep 14)
+### Homework 2 (due Sep 14)
 
 0. Readings:
   * Beauliue, Chapter 2: "Creating and Populating a Database"
@@ -114,20 +112,51 @@ Database, database system, database server, data model, data integrity, data con
 * Execute queries with a client library (`pymysql`). Generate fake data. See notebook Fake-It.ipynb
 * Execute queries using DataJoint. See notebooks `DataJoint-config` and `DataJoint-Intro`.
 
-## Weeks 2-3: (Sep 7, Sep 14)
-Schema design. Simple queries. Foreign keys. Normalization.
+## Weeks 3-4: (Sep 7, Sep 14)
 
-## Weeks 4-5
+Data models: structured (schema) and self-desccribing (schema-less). 
+
+How a database table works. 
+
+Schema design. Simple queries. Primary key. Foreign keys. Entity integrity. Referential integrity. 
+
+Normalization. First normal form. 
+
+Relational algebra: restriction and projection. The structure of the `SELECT` Statement.
+
+Declarative queries vs. imperative queries
+
+Diagramming. Entity-Relationship Diagrams.
+
+### Readings:
+  * Harrington, Chapters 3-7
+  * Hernandez, Chapeters 2-3
+  * Beaulieu, Chapters 3-4
+  * Beaulieu [Appendix A. ER Diagram](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/app01.html)
+  * Example databases: https://dev.mysql.com/doc/index-other.html
+
+### Homework 3  (due Sep 21)
+
+1. Create and populate a university database that has departments, persons. Use `faker` to create at least 3000 persons.
+2. Some persons are students. Students can optionally have one major (a reference to a department).  
+3. Some persons are professors. They are affiliated with one department. 
+4. Submit the Python code that creates and populates the database.
+5. Leave the database in place so that the instructor and TA can verify its structure and contents
+
+### Homework 4 (due Sep 28)
+...
+
+
+## Weeks 5-6
+
 Modeling relationships. 
 
-## Weeks 6-7
+## Weeks 7-8
 Advanced queries.
 
-## Weeks 8-9:
+## Weeks 9-10:
 Transactional processing. Data serialization. Computations.
 
-## Weeks 10-11:
-Practice project.
+## Weeks 11-:
+Practice projects. Final Project
 
-## Weeks 12-:
-Final project.
