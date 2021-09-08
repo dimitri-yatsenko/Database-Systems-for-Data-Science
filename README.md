@@ -109,39 +109,45 @@ Database, database system, database server, data model, data integrity, data con
 ### Key skills
 * Connect to the MySQL database provided for the class, create a simple table, and insert data into it.
 * Issue queries in SQL (using the SQL magic in jupyter for quick SQL scripting) 
-* Execute queries with a client library (`pymysql`). Generate fake data. See notebook Fake-It.ipynb
+* Execute queries with a client library (`pymysql`). Generate fake data. See notebook `Fake-It.ipynb`
 * Execute queries using DataJoint. See notebooks `DataJoint-config` and `DataJoint-Intro`.
 
 ## Weeks 3-4: (Sep 7, Sep 14)
 
-Data models: structured (schema) and self-desccribing (schema-less). 
+### Key concepts 
 
-How a database table works. 
+* Data models: structured (schema) and self-desccribing (schema-less). 
+* How a database table works. 
+* Schema design. Simple queries. Primary key. Foreign keys. Entity integrity. Referential integrity. 
+* Normalization. First normal form.  Entity normalization.
+* Diagramming. Entity-Relationship Diagrams. DataJoint diagrams. 
+* See the `Language` notebook used in Lecture 3.
+* Relational algebra: restriction and projection. The structure of the `SELECT` Statement.
+* Fetch. Order by. Offset and Limit.
+* Declarative queries vs. imperative queries
+* Default values. Nullable attributes. Nullable foreign keys.
+* UUID, surrogate keys, secondary unique constraints
 
-Schema design. Simple queries. Primary key. Foreign keys. Entity integrity. Referential integrity. 
-
-Normalization. First normal form. 
-
-Relational algebra: restriction and projection. The structure of the `SELECT` Statement.
-
-Declarative queries vs. imperative queries
-
-Diagramming. Entity-Relationship Diagrams.
 
 ### Readings:
   * Harrington, Chapters 3-7
-  * Hernandez, Chapeters 2-3
+  * Hernandez, Chapters 2-3
   * Beaulieu, Chapters 3-4
   * Beaulieu [Appendix A. ER Diagram](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/app01.html)
   * Example databases: https://dev.mysql.com/doc/index-other.html
 
 ### Homework 3  (due Sep 21)
 
-1. Create and populate a university database that has departments, persons. Use `faker` to create at least 3000 persons.
+1. Create and populate a university database that has departments, persons. Use `faker` to create at least 3000 persons. Persons must have a home address.
 2. Some persons are students. Students can optionally have one major (a reference to a department).  
 3. Some persons are professors. They are affiliated with one department. 
+4. Write a query that shows all students with a Texas home address.
 4. Submit the Python code that creates and populates the database.
 5. Leave the database in place so that the instructor and TA can verify its structure and contents
+
+### Online exercises
+* http://www.w3resource.com/mysql-exercises/ 
+* http://www.w3resource.com/sql-exercises/
 
 ### Homework 4 (due Sep 28)
 ...
