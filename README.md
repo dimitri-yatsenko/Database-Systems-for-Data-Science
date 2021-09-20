@@ -112,7 +112,9 @@ Database, database system, database server, data model, data integrity, data con
 * Execute queries with a client library (`pymysql`). Generate fake data. See notebook `Fake-It.ipynb`
 * Execute queries using DataJoint. See notebooks `DataJoint-config` and `DataJoint-Intro`.
 
-## Weeks 3-4: (Sep 7, Sep 14)
+## Weeks 3-5: (Sep 7,Sep 28)
+
+September 14 was cancelled due to Tropical Storm Nicholas.
 
 ### Key concepts 
 
@@ -136,7 +138,7 @@ Database, database system, database server, data model, data integrity, data con
   * Beaulieu [Appendix A. ER Diagram](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/app01.html)
   * Example databases: https://dev.mysql.com/doc/index-other.html
 
-### Homework 3  (due Sep 21)
+### Homework 3  (due Sep 28)
 
 1. Create and populate a university database that has departments, persons. Use `faker` to create at least 3000 persons. Persons must have a home address.
 2. Some persons are students. Students can optionally have one major (a reference to a department).  
@@ -149,7 +151,7 @@ Database, database system, database server, data model, data integrity, data con
 * http://www.w3resource.com/mysql-exercises/ 
 * http://www.w3resource.com/sql-exercises/
 
-### Homework 4 (due Sep 28)
+### Homework 4 (due Oct 5)
 For this assignment, you will separate into groups of three. You will get full access to schemas with the prefix `hw4_team#_` where `#` is your team number. 
 The team organization will be listed in the schema `shared_teams`. 
 
@@ -175,16 +177,16 @@ e. Write a query to list all guests who have stayed in a given room in 2021.
 
 f. Write a query to list all dates on which a specific guest stayed at the hotel.
 
-## Weeks 5-6
+## Weeks 6-7
 
 Modeling relationships. 
 
-## Weeks 7-8
+## Weeks 8-9
 Advanced queries.
 
-## Weeks 9-10:
+## Weeks 10-11:
 Transactional processing. Data serialization. Computations.
 
-## Weeks 11-:
+## Weeks 12-:
 Practice projects. Final Project
 
