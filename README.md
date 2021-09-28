@@ -80,8 +80,6 @@ Using `datajoint` as a high-level interface.
 
 Datatypes: numerical, character strings, and enum. 
 
-Primary key. 
-
 
 ### Homework 1 (due Sep 7): 
 
@@ -137,6 +135,7 @@ September 14 was cancelled due to Tropical Storm Nicholas.
   * Beaulieu, Chapters 3-4
   * Beaulieu [Appendix A. ER Diagram](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/app01.html)
   * Example databases: https://dev.mysql.com/doc/index-other.html
+  * https://www.datajoint.com/blog/2021-09-28-data-needs-direction
 
 ### Homework 3  (due Sep 28)
 
