@@ -160,7 +160,7 @@ Indexes, secondary unique keys.
 Data serialization - blobs.
 
 * [Assignment 5](Assign5.md) -- Due Oct 26
-* [Assignment 6](Assign6.md) -- Due Oct 30 
+* [Assignment 6](Assign6.md) -- Due Nov 3
 
 ## Weeks 8-9 (Oct 26, Nov 2)
 Advanced queries.
@@ -168,13 +168,13 @@ Advanced queries.
 * Joins
 * Aggregations 
 
-* [Assignment 7](Assign7.md) -- Due Nov 6
-* [Assignment 8](Assign8.md) -- Due Nov 13 
+* [Assignment 7](Assign7.md) -- Due Nov 10
+* [Assignment 8](Assign8.md) -- Due Nov 17
 
 ## Weeks 10-11 (Nov 9, Nov 16):
 Transactional processing. Data serialization. Computations.
-* [Assignment 9](Assign9.md) -- Due Nov 20 
-* [Assignment 10](Assign10.md) -- Due Dec 5 
+* [Assignment 9](Assign9.md) -- Due Nov 24 
+* [Assignment 10](Final.md) -- Due Dec 5 
 
 ## Weeks 12-13 (Nov 23, Nov 30)
 Practice projects. Final Project
