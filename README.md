@@ -137,55 +137,47 @@ September 14 was cancelled due to Tropical Storm Nicholas.
   * Example databases: https://dev.mysql.com/doc/index-other.html
   * https://www.datajoint.com/blog/2021-09-28-data-needs-direction
 
-### Homework 3  (due Sep 28)
-
-1. Create and populate a university database that has departments, persons. Use `faker` to create at least 3000 persons. Persons must have a home address.
-2. Some persons are students. Students can optionally have one major (a reference to a department).  
-3. Some persons are professors. They are affiliated with one department. 
-4. Write a query that shows all students with a Texas home address.
-4. Submit the Python code that creates and populates the database.
-5. Leave the database in place so that the instructor and TA can verify its structure and contents
+[Assignment 3](Assign3.md) -- Due Sep 28
 
 ### Online exercises
 * http://www.w3resource.com/mysql-exercises/ 
 * http://www.w3resource.com/sql-exercises/
 
-### Homework 4 (due Oct 5)
-For this assignment, you will separate into groups of three. You will get full access to schemas with the prefix `hw4_team#_` where `#` is your team number. 
-The team organization will be listed in the schema `shared_teams`. 
+[Assignment 4](Assign4.md) -- Due Oct 7
 
-Design, populate, and query a database for a hotel reservation system with the following business rules:
+## Weeks 6-7 (Oct 5 - off, Oct 12, Oct 19)
 
-1. The hotel has a number of rooms of two types: Deluxe and Suite 
-2. For every night, some rooms are made available for reservation for a specific price. 
-3. A guest can make a reservation for an avavilable room for one night. The reservation must include credit card payment info. At most one reservation can be made per night per room. 
-4. A guest can check into a room that has been reserved. An attempt to check in without a reservation will generate an error.
-5. A guest can check out only after checking in. An attempt to check out multiple times or check out without checking in will generate an error.
+Modeling relationships: 
+* Specialization / generalization
+* Chaining
+* Hierarchies (ownership, composite keys, partial keys)
+* Groupings 
+* Graphs 
+* Master-part relationships
 
-Your Python code should provide the following:
+Surrogate keys / Natural keys. 
+Indexes, secondary unique keys.
+Data serialization - blobs.
 
-  a. A section to create the tables. The design must be in 3rd normal form following the conventions discussed in class and enforcing the business rules above.
-  
-  b. Provide code to populate rooms and room availability with prices. 
+[Assignment 5](Assign5.md) -- Due Oct 26
+[Assignment 6](Assign6.md) -- Due Oct 30 
 
-c. The function `reserve_room(room, date, guest_name, credit_card)` to make a reservation. A script that populates at least 300 reservations (e.g. use `faker`)
-
-d. The functions `checkin(room, date)` and `checkout(room, date)` to check guests in and out. Write a script that invokes `checkin` and `checkout` for a buncha guests.  Demonstrate that that the functions enforces the rules of the business.
-
-e. Write a query to list all guests who have stayed in a given room in 2021. 
-
-f. Write a query to list all dates on which a specific guest stayed at the hotel.
-
-## Weeks 6-7
-
-Modeling relationships. 
-
-## Weeks 8-9
+## Weeks 8-9 (Oct 26, Nov 2)
 Advanced queries.
+* Subqueries
+* Joins
+* Aggregations 
 
-## Weeks 10-11:
+[Assignment 7](Assign7.md) -- Due Nov 6
+[Assignment 8](Assign8.md) -- Due Nov 13 
+
+## Weeks 10-11 (Nov 9, Nov 16):
 Transactional processing. Data serialization. Computations.
+[Assignment 9](Assign9.md) -- Due Nov 20 
+[Assignment 10](Assign10.md) -- Due Dec 5 
 
-## Weeks 12-:
+## Weeks 12-13 (Nov 23, Nov 30)
 Practice projects. Final Project
 
+## Weeks 15
+Final Project
