@@ -13,6 +13,8 @@ You can review chapters 4, 5, and 6 for additional explanations of SQL queries.
 Use the SQL `SHOW SCHEMAS` and `SHOW TABLES` and `SHOW CREATE TABLE` commands to understand the structure of the data in the database.
 You can use diagramming software to learn the schema. 
 
+These queries will contain only one select statement with no joins or groupings. Some queries will require a subquery in the `WHERE` clause.
+
 Finally, make sure that your submission is easy to understand. Include the problem statement in a comment preceding your solution.
 
 ## USE `shared_sales`
@@ -31,7 +33,7 @@ Show all products with price reduced by 5%.
 
 ### Problem 4:
 
-Show the list of orders made by each customer in descending order date. Hint: you might need to order by more than one column.
+Show the list of orders made by each customer in descending order date. Hint: you might need to order by more than one column. You do not need to include the customers' names -- the customer ID will suffice.
 
 ### Problem 5:
 
