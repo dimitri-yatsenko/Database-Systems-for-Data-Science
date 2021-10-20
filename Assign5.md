@@ -29,7 +29,7 @@ Show the vendor names sorted by state and city.
 
 ### Problem 3:
 
-Show all products with price reduced by 5%.
+Show all products, but display their price reduced by 5%.
 
 ### Problem 4:
 
