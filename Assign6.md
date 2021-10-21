@@ -58,6 +58,6 @@ The queries will NOT require outer joins or `GROUP BY` clauses.
 
 17. Show the names of guests who have checked into Deluxe rooms and have not yet checked out.
 
-18. Show the name of the guest who checked in most recently.
+18. Show the names of the 10 guests who checked in most recently.
 
 
