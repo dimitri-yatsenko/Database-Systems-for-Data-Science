@@ -1,6 +1,6 @@
 # Queries with inner joins
 
-This is a group project. Query the `shared_groups` to find your teammates.
+This is a group project. Query the `shared_projects` to find your teammates.
 
 In this assignment, you will make queries from shared databases:
 1. Sakila database: `shared_sakila`
