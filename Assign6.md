@@ -45,14 +45,19 @@ The queries will NOT require outer joins or `GROUP BY` clauses.
 
 12. Show all product names offered by Texas vendors
 
-13. Show the customer name who ordered a bicycle most recently
+13. Show the name of the  customer who ordered a bicycle most recently
+
+14. Show the name of the vendor who sells the most expensive product
+
 
 ## Hotel
 
-14. Show the rooms that have never been reserved
+15. Show the rooms that have never been reserved
 
-15. Show the names of guests who have made reservations but have not checked in.
+16. Show the names of guests who have made reservations but have not checked in.
 
-16. Show the names of guests who have checked into Deluxe rooms and have not yet checked out.
+17. Show the names of guests who have checked into Deluxe rooms and have not yet checked out.
+
+18. Show the name of the guest who checked in most recently.
 
 
