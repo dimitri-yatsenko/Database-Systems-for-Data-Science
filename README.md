@@ -151,6 +151,10 @@ Surrogate keys / Natural keys.
 Indexes, secondary unique keys.
 Data serialization - blobs.
 
+Notebooks 
+* [Joins](notebooks/Joins.ipynb)
+* [GroupBy](notebooks/GroupBy.ipynb)
+
 Advanced Queries: 
 
 * Subqueries
@@ -162,6 +166,8 @@ Reading: Harrington  Chapters 16-19
 * [Assignment 5](Assign5.md) -- Due Oct 26
 * [Assignment 6](Assign6.md) -- Due Nov 3
 * [Assignment 7](Assign7.md) -- Due Nov 10
+
+
 
 ## Weeks 9, 10 (Nov 2, Nov 9)
 
