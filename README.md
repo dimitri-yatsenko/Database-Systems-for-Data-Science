@@ -145,9 +145,28 @@ September 14 was cancelled due to Tropical Storm Nicholas.
 
 [Assignment 4](Assign4.md) -- Due Oct 7
 
-## Weeks 6-7 (Oct 5 - off, Oct 12, Oct 19)
+## Weeks 6-8 (Oct 5 - off, Oct 12, Oct 19, Oct 26)
+
+Surrogate keys / Natural keys. 
+Indexes, secondary unique keys.
+Data serialization - blobs.
+
+Advanced Queries: 
+
+* Subqueries
+* Inner Joins: cross join, theta join, equijoin, natural join
+* Aggregations 
+
+Reading: Harrington  Chapters 16-19
+
+* [Assignment 5](Assign5.md) -- Due Oct 26
+* [Assignment 6](Assign6.md) -- Due Nov 3
+* [Assignment 7](Assign7.md) -- Due Nov 10
+
+## Weeks 9, 10 (Nov 2, Nov 9)
 
 Modeling relationships: 
+
 * Specialization / generalization
 * Chaining
 * Hierarchies (ownership, composite keys, partial keys)
@@ -155,29 +174,19 @@ Modeling relationships:
 * Graphs 
 * Master-part relationships
 
-Surrogate keys / Natural keys. 
-Indexes, secondary unique keys.
-Data serialization - blobs.
+Transactional processing. Computations.
 
-* [Assignment 5](Assign5.md) -- Due Oct 26
-* [Assignment 6](Assign6.md) -- Due Nov 3
+Reading: 
+* Harrington: Chapters 13, 14, 15 (case studies), 22 (concurrency and transactions)
 
-## Weeks 8-9 (Oct 26, Nov 2)
-Advanced queries.
-* Subqueries
-* Joins
-* Aggregations 
 
-* [Assignment 7](Assign7.md) -- Due Nov 10
+## Weeks 10-11 (Nov 16, Nov 23, Nov 30):
+Putting it all together. Practical examples
+
 * [Assignment 8](Assign8.md) -- Due Nov 17
 
-## Weeks 10-11 (Nov 9, Nov 16):
-Transactional processing. Data serialization. Computations.
-* [Assignment 9](Assign9.md) -- Due Nov 24 
-* [Assignment 10](Final.md) -- Due Dec 5 
-
-## Weeks 12-13 (Nov 23, Nov 30)
-Practice projects. Final Project
-
-## Weeks 15
+## Week 12 (Nov 30)
 Final Project
+* [Assignment 9](Final.md) -- Due Dec 5 
+
+Practice projects. Final Project
