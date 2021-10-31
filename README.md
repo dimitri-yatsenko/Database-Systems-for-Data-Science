@@ -171,6 +171,8 @@ Reading: Harrington  Chapters 16-19
 
 ## Weeks 9, 10 (Nov 2, Nov 9)
 
+Nov 2: Lecture will start at 7.30 pm. 
+
 Modeling relationships: 
 
 * Specialization / generalization
