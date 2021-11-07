@@ -16,7 +16,7 @@ The queries may be simple single-table `SELECT` statements, `SELECT` statements 
 ## Sakila
 
 
-1. List the names of top 10 actors who have acted in most films, including the number of movies. 
+1. List the names of top 10 actors who have acted in most films, include the number films. 
 
 2. List the titles of all films on the inventory of Store 2 only, i.e. not found in Store 1.
 
@@ -50,7 +50,7 @@ The queries may be simple single-table `SELECT` statements, `SELECT` statements 
 
 ## Hotel
 
-14. Show all guests who have made reservations for any nights when Samantha Smith had reservations.
+14. Show all guests who have made reservations for any nights when Samantha Smith made reservations.
 
 15. Challenge: Find the pair of guests who have made reservations for the same night the most. (Hint: two of the guest have made reservations for the same nights 20 times) 
 
