@@ -52,6 +52,6 @@ The queries may be simple single-table `SELECT` statements, `SELECT` statements 
 
 14. Show all guests who have made reservations for any nights when Samantha Smith made reservations.
 
-15. Challenge: Find the pair of guests who have made reservations for the same night the most. (Hint: two of the guest have made reservations for the same nights 20 times) 
+15. Challenge: Find the pair of guests who have made reservations for the same night the most. (Hint: two of the guests have made reservations for the same nights 20 times if you are using `shared_hotels`) 
 
 
