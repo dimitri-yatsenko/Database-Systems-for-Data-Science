@@ -175,16 +175,18 @@ Nov 2: Lecture will start at 7.30 pm.
 
 Modeling relationships: 
 
-* Specialization / generalization
-* Chaining
+* Sequences and workflows.
+* Specialization / generalization.
 * Hierarchies (ownership, composite keys, partial keys)
 * Groupings 
-* Graphs 
+* Directed Graphs (including trees)
+* Unidrected Graphs.
 * Master-part relationships
 
 Transactional processing. Computations.
 
 Reading: 
+
 * Harrington: Chapters 13, 14, 15 (case studies), 22 (concurrency and transactions)
 
 
