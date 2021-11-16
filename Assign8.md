@@ -33,7 +33,7 @@ The queries may be simple single-table `SELECT` statements, `SELECT` statements 
 
 7. Show the date with highest number of orders placed.
 
-8. List all days of the year (month and date)  of customer birthdays.
+8. List all days of the year (month and day only) of employee birthdays.
 
 9. List the names of Products that are offered by only a single vendor, including the name of that vendor. 
 
