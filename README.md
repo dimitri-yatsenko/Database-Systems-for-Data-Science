@@ -167,8 +167,6 @@ Reading: Harrington  Chapters 16-19
 * [Assignment 6](Assign6.md) -- Due Nov 3
 * [Assignment 7](Assign7.md) -- Due Nov 10
 
-
-
 ## Weeks 9, 10 (Nov 2, Nov 9)
 
 Nov 2: Lecture will start at 7.30 pm. 
@@ -193,7 +191,7 @@ Reading:
 ## Weeks 10-11 (Nov 16, Nov 23, Nov 30):
 Putting it all together. Practical examples
 
-* [Assignment 8](Assign8.md) -- Due Nov 17
+* [Assignment 8](Assign8.md) -- Due Nov 18
 
 ## Week 12 (Nov 30)
 Final Project
