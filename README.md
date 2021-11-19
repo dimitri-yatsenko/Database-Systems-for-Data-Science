@@ -188,13 +188,10 @@ Reading:
 * Harrington: Chapters 13, 14, 15 (case studies), 22 (concurrency and transactions)
 
 
-## Weeks 10-11 (Nov 16, Nov 23, Nov 30):
+## Weeks 10-11 (Nov 16, Nov 23):
 Putting it all together. Practical examples
 
 * [Assignment 8](Assign8.md) -- Due Nov 18
-
-## Week 12 (Nov 30)
-Final Project
-* [Assignment 9](Final.md) -- Due Dec 5 
+* [Assignment 9](Final.md) -- Due Dec 12 
 
 Practice projects. Final Project
