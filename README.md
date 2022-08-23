@@ -1,9 +1,9 @@
-# Database-Systems-for-Data-Science (Fall 2021)
+# Database-Systems-for-Data-Science (Fall 2022)
 **MS Applied Data Science**
 
 **Instructor:** Dimitri Yatsenko, Ph.D.
 
-**TA:** Cinni Patel
+**TA:** Juan Gallegos
 
 ## Syllabus
 
@@ -60,7 +60,7 @@ Additional slides and notes will be provided in class.
 |**F**|>=0%|
 
 
-## Weeks 1-2: (Aug 24, Aug 31)
+## Weeks 1-2: (Aug 23, Aug 30)
 Databases in data science. Data models: diverse ways to think about data: hiearchical, network, relational, object, graph, and document data models.
 History of datatabases and database technologies. Next-generation databases.
 
@@ -81,7 +81,7 @@ Using `datajoint` as a high-level interface.
 Datatypes: numerical, character strings, and enum. 
 
 
-### Homework 1 (due Sep 7): 
+### Homework 1 (due Sep 6): 
 
 0. Readings: 
   * Harrington, Chapter 1, "The Database Environment"
@@ -91,7 +91,7 @@ Datatypes: numerical, character strings, and enum.
 2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
 2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
 
-### Homework 2 (due Sep 14)
+### Homework 2 (due Sep 13)
 
 0. Readings:
   * Beauliue, Chapter 2: "Creating and Populating a Database"
@@ -110,7 +110,7 @@ Database, database system, database server, data model, data integrity, data con
 * Execute queries with a client library (`pymysql`). Generate fake data. See notebook `Fake-It.ipynb`
 * Execute queries using DataJoint. See notebooks `DataJoint-config` and `DataJoint-Intro`.
 
-## Weeks 3-5: (Sep 7,Sep 28)
+## Weeks 3-5: (Sep 6, Sep 13, Sep 20)
 
 September 14 was cancelled due to Tropical Storm Nicholas.
 
