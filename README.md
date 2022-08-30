@@ -16,7 +16,7 @@ The course will include practical exercises and will be graded based on several 
 
 ## Class and attendance
 
-Class participation is required and much of the material will be presented. The class will be held in room SHP 251 and also broadcast in Zoom.
+Class participation is required and much of the material will be presented. The class will be held in room Malloy 241 and also broadcast in Zoom.
 We will also use a Slack channel. If you have not received access to any of these resources, please notify your instructor.
 
 ## Textbook 
@@ -80,26 +80,22 @@ Using `datajoint` as a high-level interface.
 
 Datatypes: numerical, character strings, and enum. 
 
+### Homework 1 (due Sep 1)
+1. [Installation of SQL Magic for Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Install-SQL-Magic.ipynb)
+2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
 
-### Homework 1 (due Sep 6): 
+2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
+ * Connect to the database server 
+ * Create a schema, a table within it, and insert at least one row. 
 
 0. Readings: 
   * Harrington, Chapter 1, "The Database Environment"
   * Hernandez, Chapter 1, "The Relational Database" 
-1. Answer questions in [Block1.md](Block 1). Submit as a PDF file as a direct message to the TA and the instructor on Slack.  
-1. [Installation of SQL Magic for Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Install-SQL-Magic.ipynb)
-2. [Connecting to the database from Jupyter](https://nbviewer.jupyter.org/github/msds-5315/Database-Systems-for-Data-Science/blob/master/notebooks/Connect-SQL.ipynb)
-2. On the MySQL server, create a database named `<username>_university` and define a table named `person`. Make sure it has a well chosen primary key. 
-
-### Homework 2 (due Sep 13)
-
-0. Readings:
   * Beauliue, Chapter 2: "Creating and Populating a Database"
   * Generating fake data: https://towardsdatascience.com/generating-fake-data-with-python-c7a32c631b2a
 1. Create a `university` database 
 2. Create a table named `person` with basic attributes: name, date of birth, address, phone, 
 3. Using the `faker` module, populate the `person` table with 3000 records.
-
 
 ### Key terms
 Database, database system, database server, data model, data integrity, data consistency, ACID, relational data model, SQL, imperative queries, schema.
@@ -110,9 +106,11 @@ Database, database system, database server, data model, data integrity, data con
 * Execute queries with a client library (`pymysql`). Generate fake data. See notebook `Fake-It.ipynb`
 * Execute queries using DataJoint. See notebooks `DataJoint-config` and `DataJoint-Intro`.
 
-## Weeks 3-5: (Sep 6, Sep 13, Sep 20)
+### Homework 2 (due Sep 8)
 
-September 14 was cancelled due to Tropical Storm Nicholas.
+1. Answer questions in [Block 1](Block1.md). Submit as a PDF file as a direct message to the TA and the instructor on Slack.  
+
+## Weeks 3-5: (Sep 6, Sep 13, Sep 20)
 
 ### Key concepts 
 

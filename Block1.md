@@ -36,7 +36,8 @@ Relational database theory
 1. What does the word *relational* signify?
 1. Describe the operators *union*, *interect*, *difference*, and *Cartesian product* in set theory.
 1. If set **A** contains three elements and set **B** contains four elements, what is the *cardinality* of their Cartesian product? 
-1. Name six or more differences between using a table in a relational database and using a Microsoft Excel spreadsheet.
+1. Name five or more differences between using a table in a relational database and using a Microsoft Excel spreadsheet.
+1. Name a few differences between tables in a relational database and data frames.
 1. In relational database theory, a *relation* is defined as a set of *tuples*. What SQL concepts correspond to tuples and relatons?
 1. In relational database theory, a *tuple* contains values for each *attribute* of a relation. 
 1. What is *entity integrity*?
