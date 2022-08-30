@@ -88,7 +88,8 @@ Datatypes: numerical, character strings, and enum.
  * Connect to the database server 
  * Create a schema, a table within it, and insert at least one row. 
 
-0. Readings: 
+
+### Readings: 
   * Harrington, Chapter 1, "The Database Environment"
   * Hernandez, Chapter 1, "The Relational Database" 
   * Beauliue, Chapter 2: "Creating and Populating a Database"
