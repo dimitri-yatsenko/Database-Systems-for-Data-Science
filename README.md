@@ -96,7 +96,7 @@ Datatypes: numerical, character strings, and enum.
   * Generating fake data: https://towardsdatascience.com/generating-fake-data-with-python-c7a32c631b2a
 1. Create a `university` database 
 2. Create a table named `person` with basic attributes: name, date of birth, address, phone, 
-3. Using the `faker` module, populate the `person` table with 3000 records.
+3. Insert at least one record into the person table.
 
 ### Key terms
 Database, database system, database server, data model, data integrity, data consistency, ACID, relational data model, SQL, imperative queries, schema.
@@ -136,13 +136,13 @@ Database, database system, database server, data model, data integrity, data con
   * Example databases: https://dev.mysql.com/doc/index-other.html
   * https://www.datajoint.com/blog/2021-09-28-data-needs-direction
 
-[Assignment 3](Assign3.md) -- Due Sep 28
+[Assignment 3](Assign3.md) -- Due Sep 15
 
 ### Online exercises
 * http://www.w3resource.com/mysql-exercises/ 
 * http://www.w3resource.com/sql-exercises/
 
-[Assignment 4](Assign4.md) -- Due Oct 7
+[Assignment 4](Assign4.md) -- Due Sep 22
 
 ## Weeks 6-8 (Oct 5 - off, Oct 12, Oct 19, Oct 26)
 
