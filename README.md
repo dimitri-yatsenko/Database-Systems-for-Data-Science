@@ -118,6 +118,7 @@ Database, database system, database server, data model, data integrity, data con
 * Data models: structured (schema) and self-desccribing (schema-less). 
 * How a database table works. 
 * Schema design. Simple queries. Primary key. Foreign keys. Entity integrity. Referential integrity. 
+* SELECT ... FROM ... WHERE ... ORDER BY ... 
 * Normalization. First normal form.  Entity normalization.
 * Diagramming. Entity-Relationship Diagrams. DataJoint diagrams. 
 * See the `Language` notebook used in Lecture 3.
