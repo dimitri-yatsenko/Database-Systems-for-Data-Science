@@ -1,63 +1,69 @@
-# Queries with inner joins
+# Homework 5
 
-This is a group project. Query the `shared_projects` to find your teammates.
+## Simple SQL queries
 
-In this assignment, you will make queries from shared databases:
-1. Sakila database: `shared_sakila`
-2. Sales database: `shared_sales`
-3. Hotel database: `shared_hotel` or any of the `hw4_*` databases submitted by teams in homework 4, even your own.
+This is a pure SQL assignment. Submit the assignment as PDF of the notebook using SQL Magic or as a simple text file containing the SQL code for each problem. 
 
-Write all queries in SQL. Use `SHOW TABLES` and `SHOW CREATE TABLE` statements to understand the schema.
+We will work with two database on the server: `shared_sales` and `shared_sakila`. 
 
-The queries may be simple single-table `SELECT` statements, `SELECT` statements with subqueries, or queries with inner joins.
+The sales database closely matches the sales database from John L. Viescas' "SQL Queries for Mere Mortals" https://learning.oreilly.com/library/view/sql-queries-for/9780134858432/ 
 
-Some queries will require `ORDER BY` and `LIMIT` clauses but will NOT  require aggregation operators such as `MAX`, `AVG`, `SUM`, etc.
+You can review chapters 4, 5, and 6 for additional explanations of SQL queries.
 
-The queries will NOT require outer joins or `GROUP BY` clauses.
+Use the SQL `SHOW SCHEMAS` and `SHOW TABLES` and `SHOW CREATE TABLE` commands to understand the structure of the data in the database.
+You can use diagramming software to learn the schema. 
 
+These queries will contain only one select statement with no joins or groupings. Some queries will require a subquery in the `WHERE` clause.
 
+Finally, make sure that your submission is easy to understand. Include the problem statement in a comment preceding your solution.
 
-## Sakila
+## USE `shared_sales`
 
-1. List all stores including their full address and their manager names. 
+### Problem 1: 
 
-2. List all payments over $11.00, including the payment date, the customer name, and the staff name. 
+Show the names and addresses of all employees
 
-3. List all customers who have made single payments of $11.00 or more.
+### Problem 2: 
 
-## Sales 
+Show the vendor names sorted by state and city.
 
-4. Display all products and their categories
+### Problem 3:
 
-5. Display the product names, number ordered, and total  mount owed for each item  on order 160
+Show all products, but display their price reduced by 5%.
 
-6. Display all customers who have ever ordered a bicycle 
+### Problem 4:
 
-7. Display the names of products that have never been ordered
+Show the list of orders made by each customer in descending order date. Hint: you might need to order by more than one column. You do not need to include the customers' names -- the customer ID will suffice.
 
-8. Display the names of customers who have never ordered anything
+### Problem 5:
 
-9. Show the customer/employee pairs who share the same last names
+List the five most expensive products.
 
-10. Show the names of all  vendors who sell clothing
+### Problem 6: (subqueries)
+List the total value of each product's stock (price x quantity)
 
-11. Show all products that have not sold since the end of 2017
+### Problem 7: (subqueries)
+List all products that have never been sold.
 
-12. Show all product names offered by Texas vendors
+## Use `shared_sakila`
 
-13. Show the name of the  customer who ordered a bicycle most recently
+### Problem 8:
 
-14. Show the name of the vendor who sells the most expensive product
+List all movies over 3 hours in length
 
+### Problem 9:
 
-## Hotel
+List all movies containing the substring "GUMP" in them
 
-15. Show the rooms that have never been reserved
+### Problem 10:
+List the last rental date for customer 148. 
 
-16. Show the names of guests who have made reservations but have not checked in.
+### Problem 11: 
 
-17. Show the names of guests who have checked into Deluxe rooms and have not yet checked out.
+List the titles of all movies in the "Horror" category in alphabetical order
 
-18. Show the names of the 10 guests who checked in most recently.
+### Problem 12:
+
+List all actors who have acted in horror movies.
 
 

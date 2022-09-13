@@ -1,6 +1,6 @@
-# Aggregation Queries
+# Queries with inner joins
 
-This is a group project. Query the `shared_projects.group_assignement` table for `project=7`  to find your teammates.
+This is a group project. Query the `shared_projects` to find your teammates.
 
 In this assignment, you will make queries from shared databases:
 1. Sakila database: `shared_sakila`
@@ -9,50 +9,55 @@ In this assignment, you will make queries from shared databases:
 
 Write all queries in SQL. Use `SHOW TABLES` and `SHOW CREATE TABLE` statements to understand the schema.
 
-The queries may be simple single-table `SELECT` statements, `SELECT` statements with subqueries, or queries with inner joins, or queries with left joins and GROUP BY. 
+The queries may be simple single-table `SELECT` statements, `SELECT` statements with subqueries, or queries with inner joins.
+
+Some queries will require `ORDER BY` and `LIMIT` clauses but will NOT  require aggregation operators such as `MAX`, `AVG`, `SUM`, etc.
+
+The queries will NOT require outer joins or `GROUP BY` clauses.
 
 
 
 ## Sakila
 
-1. List actor names and the total number of films they have acted in. 
+1. List all stores including their full address and their manager names. 
 
-2. List the top ten most rented films.
+2. List all payments over $11.00, including the payment date, the customer name, and the staff name. 
 
-3. For each store, show the total number of rentals and the total payments received.
-
+3. List all customers who have made single payments of $11.00 or more.
 
 ## Sales 
 
-4. Count customers who live in Seattle.
+4. Display all products and their categories
 
-5. List the average price of bikes.
+5. Display the product names, number ordered, and total  mount owed for each item  on order 160
 
-6. List all vendors and the number of products they sell.
+6. Display all customers who have ever ordered a bicycle 
 
-7. List all customers including the total number of orders they placed, the last date they placed an order.
+7. Display the names of products that have never been ordered
 
-9. List the top five bestselling products (based on total sales revenue). 
+8. Display the names of customers who have never ordered anything
 
-10. Compute the total number of orders totaling $500 or more 
+9. Show the customer/employee pairs who share the same last names
 
-11. List employee names and the total  number of orders they have placed
+10. Show the names of all  vendors who sell clothing
 
-12. List employee names and the total amounts they have made in sales.
+11. Show all products that have not sold since the end of 2017
 
-13. List employee names and the total numbers of customers they have served.
+12. Show all product names offered by Texas vendors
 
-14. For each month when sales have been made, list the total sales amounts. Hint: you may need to use the `YEAR` and `MONTH` functions.
+13. Show the name of the  customer who ordered a bicycle most recently
+
+14. Show the name of the vendor who sells the most expensive product
 
 
 ## Hotel
 
-15. List all the rooms and the number of times they have been rented, including those rooms that have never been rented.
+15. Show the rooms that have never been reserved
 
-16. List the average number of nights each room has been rented. 
+16. Show the names of guests who have made reservations but have not checked in.
 
-17. List all guests, including the number of nights they have stayed at the hotel (based on reservations). 
+17. Show the names of guests who have checked into Deluxe rooms and have not yet checked out.
 
-18. List the average numbers of rooms that have been reserved on each day of the week. (Seven rows will result). Hint: first compute the totals for each date and then group by the day of the week using the `WEEKDAY` function.
+18. Show the names of the 10 guests who checked in most recently.
 
 

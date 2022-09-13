@@ -1,6 +1,6 @@
 # Aggregation Queries
 
-This is a group project. Query the `shared_projects.group_assignement` table for `project=8`  to find your teammates.
+This is a group project. Query the `shared_projects.group_assignement` table for `project=7`  to find your teammates.
 
 In this assignment, you will make queries from shared databases:
 1. Sakila database: `shared_sakila`
@@ -15,43 +15,44 @@ The queries may be simple single-table `SELECT` statements, `SELECT` statements 
 
 ## Sakila
 
+1. List actor names and the total number of films they have acted in. 
 
-1. List the names of top 10 actors who have acted in most films, include the number films. 
+2. List the top ten most rented films.
 
-2. List the titles of all films on the inventory of Store 2 only, i.e. not found in Store 1.
-
-3. List the names of all actors who have co-starred in the same movies with NATALIE HOPKINS.
+3. For each store, show the total number of rentals and the total payments received.
 
 
 ## Sales 
 
-4. List employees along with the their ages in years today. (Hint: Use the `DATEDIFF` or `TIMESTAMPDIFF` function along with `NOW()`).)
+4. Count customers who live in Seattle.
 
-5. List all employees with November birthdays. (HINT: Use the `MONTH` function)
+5. List the average price of bikes.
 
-6. List all orders placed by employees on their own birthdays. (HINT: You may use the `MONTH` and `DAYOFMONTH` functions)
+6. List all vendors and the number of products they sell.
 
-7. Show the date with highest number of orders placed.
+7. List all customers including the total number of orders they placed, the last date they placed an order.
 
-8. List all days of the year (month and day only) of employee birthdays.
+9. List the top five bestselling products (based on total sales revenue). 
 
-9. List the names of Products that are offered by only a single vendor, including the name of that vendor. 
+10. Compute the total number of orders totaling $500 or more 
 
-10. List all products, including the name of the vendor that offers it at the lowest price.
+11. List employee names and the total  number of orders they have placed
 
-11. List all unique  pairs of orders that have the same date, customer, and employee. (Hint: 10 pairs)
+12. List employee names and the total amounts they have made in sales.
 
-12. Challenge: show all the triplets of products that appear together on at least 100 unique orders. (Hint: 5 triplets)
+13. List employee names and the total numbers of customers they have served.
 
-13. Challenge: Find the most common list of products on an order  (Hint: The same list of 8 products is found on 23 orders. You may find the `GROUP_CONCAT` function helpful).
-
-
+14. For each month when sales have been made, list the total sales amounts. Hint: you may need to use the `YEAR` and `MONTH` functions.
 
 
 ## Hotel
 
-14. Show all guests who have made reservations for any nights when Samantha Smith made reservations.
+15. List all the rooms and the number of times they have been rented, including those rooms that have never been rented.
 
-15. Challenge: Find the pair of guests who have made reservations for the same night the most. (Hint: two of the guests have made reservations for the same nights 20 times if you are using `shared_hotels`) 
+16. List the average number of nights each room has been rented. 
+
+17. List all guests, including the number of nights they have stayed at the hotel (based on reservations). 
+
+18. List the average numbers of rooms that have been reserved on each day of the week. (Seven rows will result). Hint: first compute the totals for each date and then group by the day of the week using the `WEEKDAY` function.
 
 
