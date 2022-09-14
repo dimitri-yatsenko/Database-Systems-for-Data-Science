@@ -140,8 +140,10 @@ Database, database system, database server, data model, data integrity, data con
 [Assignment 3](Assign3.md) -- Due Sep 22 (extended by one week)
 
 ### Online exercises
+* [SimpleQueries](notebooks/SimpleQueries.ipynb)
 * http://www.w3resource.com/mysql-exercises/ 
 * http://www.w3resource.com/sql-exercises/
+
 
 [Assignment 4](Assign4.md) -- Due Sep 22
 
