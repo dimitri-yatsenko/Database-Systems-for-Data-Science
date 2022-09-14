@@ -137,7 +137,7 @@ Database, database system, database server, data model, data integrity, data con
   * Example databases: https://dev.mysql.com/doc/index-other.html
   * https://www.datajoint.com/blog/2021-09-28-data-needs-direction
 
-[Assignment 3](Assign3.md) -- Due Sep 15
+[Assignment 3](Assign3.md) -- Due Sep 22 (extended by one week)
 
 ### Online exercises
 * http://www.w3resource.com/mysql-exercises/ 
@@ -145,7 +145,7 @@ Database, database system, database server, data model, data integrity, data con
 
 [Assignment 4](Assign4.md) -- Due Sep 22
 
-## Weeks 6-8 (Oct 5 - off, Oct 12, Oct 19, Oct 26)
+## Weeks 6-8 (Oct 3, Oct 10, Oct 17, Oct 24)
 
 Surrogate keys / Natural keys. 
 Indexes, secondary unique keys.
@@ -163,9 +163,9 @@ Advanced Queries:
 
 Reading: Harrington  Chapters 16-19
 
-* [Assignment 5](Assign5.md) -- Due Oct 26
-* [Assignment 6](Assign6.md) -- Due Nov 3
-* [Assignment 7](Assign7.md) -- Due Nov 10
+* [Assignment 5](Assign5.md) -- Due Sep 29
+* [Assignment 6](Assign6.md) -- Due Oct 5
+* [Assignment 7](Assign7.md) -- Due Oct 12
 
 ## Weeks 9, 10 (Nov 2, Nov 9)
 
