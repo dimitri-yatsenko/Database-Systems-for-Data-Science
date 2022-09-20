@@ -118,11 +118,11 @@ Database, database system, database server, data model, data integrity, data con
 * Data models: structured (schema) and self-desccribing (schema-less). 
 * How a database table works. 
 * Schema design. Simple queries. Primary key. Foreign keys. Entity integrity. Referential integrity. 
-* SELECT ... FROM ... WHERE ... ORDER BY ... 
 * Normalization. First normal form.  Entity normalization.
 * Diagramming. Entity-Relationship Diagrams. DataJoint diagrams. 
 * See the `Language` notebook used in Lecture 3.
 * Relational algebra: restriction and projection. The structure of the `SELECT` Statement.
+* `SELECT ... FROM ... WHERE ... ORDER BY ... LIMIT ...`
 * Fetch. Order by. Offset and Limit.
 * Declarative queries vs. imperative queries
 * Default values. Nullable attributes. Nullable foreign keys.
@@ -147,7 +147,7 @@ Database, database system, database server, data model, data integrity, data con
 
 [Assignment 4](Assign4.md) -- Due Sep 22
 
-## Weeks 6-8 (Oct 3, Oct 10, Oct 17, Oct 24)
+## Weeks 6-8 (Oct 3, Oct 10 (Fall Break), Oct 17, Oct 24)
 
 Surrogate keys / Natural keys. 
 Indexes, secondary unique keys.
@@ -167,7 +167,7 @@ Reading: Harrington  Chapters 16-19
 
 * [Assignment 5](Assign5.md) -- Due Sep 29
 * [Assignment 6](Assign6.md) -- Due Oct 5
-* [Assignment 7](Assign7.md) -- Due Oct 12
+* [Assignment 7](Assign7.md) -- Due Oct 19
 
 ## Weeks 9, 10 (Nov 2, Nov 9)
 
@@ -183,7 +183,7 @@ Modeling relationships:
 * Unidrected Graphs.
 * Master-part relationships
 
-Transactional processing. Computations.
+Transaction processing.
 
 Reading: 
 

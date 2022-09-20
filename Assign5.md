@@ -1,29 +1,42 @@
-## Homework 4
+# Homework 5
 
-For this assignment, you will separate into groups of three. You will get full access to schemas with the prefix `hw4_team#_` where `#` is your team number.
-The team organization will be listed in the schema `shared_teams`.
+This assignment will modify the schema design from  assignment 3 (University, Department, Student, Instructor).
+The assignment must be performed in pure Python. No Jupyter magic! All SQL queries must be performed using python libraries such as `pymysql` or `datajoint`. 
+You can submit pure python code or a PDF printout of the jupyter notebook implementing the solution.
 
-Design, populate, and query a database for a hotel reservation system with the following business rules:
+The code will have three sections: 
 
-1. The hotel has a number of rooms of two types: Deluxe and Suite
-2. For every night, some rooms are made available for reservation for a specific price.
-3. A guest can make a reservation for an avavilable room for one night. The reservation must include credit card payment info. At most one reservation can be made per night per room.
-4. A guest can check into a room that has been reserved. An attempt to check in without a reservation will generate an error.
-5. A guest can check out only after checking in. An attempt to check out multiple times or check out without checking in will generate an error.
 
-Your Python code should provide the following:
+## 1. Modified schema 
 
-  a. A section to create the tables. The design must be in 3rd normal form following the conventions discussed in class and enforcing the business rules above.
+A correct design is likely to require five tables.
 
-  b. Provide code to populate rooms and room availability with prices.
+Rules: 
+1. University have several departments on of them is MATH and another is BIOL, you can add a few others.
+2. A person in the university database can be a student, an instructor, or neither.
+3. A person has a birthdate and a home address
+3. Some student student have a major. A major is a reference to a department. If a student has a major, they also a have a `declare_date`, i.e. the date when they were accepted into the program.
+4. An instructor may instruct in multiple departments. 
 
-c. The function `reserve_room(room, date, guest_name, credit_card)` to make a reservation. A script that populates at least 300 reservations (e.g. use `faker`)
 
-d. The functions `checkin(room, date)` and `checkout(room, date)` to check guests in and out. Write a script that invokes `checkin` and `checkout` for a buncha guests.  Demonstrate that that the functions enforces the rules of the business.
+## 2. Populate the tables 
 
-e. Write a query to list all guests who have stayed in a given room in 2021.
+Populate the tables with at least 3000 persons.  You may use the `faker` library. Make some of them students with and without majors. 
+Make some of them instructors in one or more departments.
 
-f. Write a query to list all dates on which a specific guest stayed at the hotel.
 
+## 3. Write the following database queries
+
+1. Easy: Show the names all students who are math majors
+2. Medium: Show all persons who are neither students nor instructors. 
+3. Medium: Show all persons who are both students and instructors. 
+3. Medium: Show all departments that don't have any students majoring in them. 
+3. Hard: Show all students who declared their major  before age 18. 
+3. Hard: Show all departments who have students declared their major before age 18.
+
+
+Hints: These queries may require subqueries in their `WHERE` clauses. For date differences, please check the `DATEDIFF` function in the MySQL or MariaDB tutoral. 
+
+If your schema design or contents do not allow answering these queries, please modify your schema design.
 
 
