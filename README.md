@@ -139,13 +139,16 @@ Database, database system, database server, data model, data integrity, data con
 
 [Assignment 3](Assign3.md) -- Due Sep 22 (extended by one week)
 
-### Online exercises
+### Resources and exercises
 * [SimpleQueries](notebooks/SimpleQueries.ipynb)
 * http://www.w3resource.com/mysql-exercises/ 
 * http://www.w3resource.com/sql-exercises/
+* [PersonAccounts](notebooks/PersonAccounts.ipynb)
 
 
 [Assignment 4](Assign4.md) -- Due Sep 22
+[Assignment 5](Assign5.md) -- Due Sep 29
+
 
 ## Weeks 6-8 (Oct 3, Oct 10 (Fall Break), Oct 17, Oct 24)
 
@@ -165,7 +168,6 @@ Advanced Queries:
 
 Reading: Harrington  Chapters 16-19
 
-* [Assignment 5](Assign5.md) -- Due Sep 29
 * [Assignment 6](Assign6.md) -- Due Oct 5
 * [Assignment 7](Assign7.md) -- Due Oct 19
 
