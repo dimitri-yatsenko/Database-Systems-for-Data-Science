@@ -173,6 +173,7 @@ Reading: Harrington  Chapters 16-19
 
 ## Weeks 9, 10 (Nov 2, Nov 9)
 
+
 Nov 2: Lecture will start at 7.30 pm. 
 
 Modeling relationships: 
@@ -188,6 +189,7 @@ Modeling relationships:
 Transaction processing.
 
 Reading: 
+
 
 * Harrington: Chapters 13, 14, 15 (case studies), 22 (concurrency and transactions)
 
