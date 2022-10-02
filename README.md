@@ -168,7 +168,7 @@ Advanced Queries:
 
 Reading: Harrington  Chapters 16-19
 
-* [Assignment 6](Assign6.md) -- Due Oct 5
+* [Assignment 6](Assign6.md) -- Due Oct 12 
 * [Assignment 7](Assign7.md) -- Due Oct 19
 
 ## Weeks 9, 10 (Nov 2, Nov 9)

@@ -23,27 +23,27 @@ The queries will NOT require outer joins or `GROUP BY` clauses.
 
 ## Database `shared_sales`
 
-4. Display all products and their categories
+4. Display all products and their categories.
 
-5. Display the product names, number ordered, and total  mount owed for each item  on order 160
+5. Display the product names, number ordered, and total  mount owed for each item  on order 160.
 
-6. Display all customers who have ever ordered a bicycle 
+6. Display all customers who have ever ordered a bicycle .
 
-7. Display the names of products that have never been ordered
+7. Display the names of products that have never been ordered.
 
-8. Display the names of customers who have never ordered anything
+8. Display the names of customers who have never ordered anything.
 
-9. Show the customer/employee pairs who share the same last names
+9. Show the customer/employee pairs who share the same last names.
 
-10. Show the names of all  vendors who sell clothing
+10. Show the names of all  vendors who sell clothing.
 
-11. Show all products that have not sold since the end of 2017
+11. Show all products that have not sold since the end of 2017.
 
-12. Show all product names offered by Texas vendors
+12. Show all product names offered by Texas vendors.
 
-13. Show the name of the  customer who ordered a bicycle most recently
+13. Show the name of the  customer who ordered a bicycle most recently.
 
-14. Show the name of the vendor who sells the most expensive product
+14. Show the name of the vendor who sells the most expensive product.
 
 
 ## Database `shared_world`
@@ -53,12 +53,13 @@ The queries will NOT require outer joins or `GROUP BY` clauses.
 
 ## Database `shared_airport`
 
-16. 
+16. List all airlines including the names of their home aiport. 
 
-17. 
+17. List all flights scheduled to depart from the Airport named "LA SARRE".
 
-18. 
+18. List all flights that departed from LA SARRE in September 2015.
 
-19. 
+19. List the types of airplanes that have have ever departed from LA SARRE.
 
-20. 
+20. List the types of airplaes that have never flown.
+
