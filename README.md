@@ -146,11 +146,11 @@ Database, database system, database server, data model, data integrity, data con
 * [PersonAccounts](notebooks/PersonAccounts.ipynb)
 
 
-[Assignment 4](Assign4.md) -- Due Sep 22
-[Assignment 5](Assign5.md) -- Due Sep 29
+* [Assignment 4](Assign4.md) -- Due Sep 22
+* [Assignment 5](Assign5.md) -- Due Sep 29
 
 
-## Weeks 6-8 (Oct 3, Oct 10 (Fall Break), Oct 17, Oct 24)
+## Weeks 6-8 (Sep 27, Oct 4, Oct 11 (Fall Break), Oct 18)
 
 Surrogate keys / Natural keys. 
 Indexes, secondary unique keys.
@@ -168,13 +168,11 @@ Advanced Queries:
 
 Reading: Harrington  Chapters 16-19
 
-* [Assignment 6](Assign6.md) -- Due Oct 12 
-* [Assignment 7](Assign7.md) -- Due Oct 19
+* [Assignment 6](Assign6.md) -- Due Oct 13 
+* [Assignment 7](Assign7.md) -- Due Oct 20 
 
-## Weeks 9, 10 (Nov 2, Nov 9)
+## Weeks 9, 10 (Oct 25, Nov 2, Nov 9)
 
-
-Nov 2: Lecture will start at 7.30 pm. 
 
 Modeling relationships: 
 

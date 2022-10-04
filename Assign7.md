@@ -1,14 +1,12 @@
 # Aggregation Queries
 
-This is a group project. Query the `shared_projects.group_assignement` table for `project=7`  to find your teammates.
-
 In this assignment, you will make queries from shared databases:
 1. Sakila database: `shared_sakila`
 2. Sales database: `shared_sales`
-3. Hotel database: `shared_hotel` or any of the `hw4_*` databases submitted by teams in homework 4, even your own.
+3. Hotel database: `shared_hotel` 
+4. Airport database: `shared_airport`
 
 Write all queries in SQL. Use `SHOW TABLES` and `SHOW CREATE TABLE` statements to understand the schema.
-
 The queries may be simple single-table `SELECT` statements, `SELECT` statements with subqueries, or queries with inner joins, or queries with left joins and GROUP BY. 
 
 
@@ -34,7 +32,7 @@ The queries may be simple single-table `SELECT` statements, `SELECT` statements 
 
 9. List the top five bestselling products (based on total sales revenue). 
 
-10. Compute the total number of orders totaling $500 or more 
+10. Count the orders whose total amount exceeds $500.
 
 11. List employee names and the total  number of orders they have placed
 
