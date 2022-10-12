@@ -159,6 +159,8 @@ Data serialization - blobs.
 Notebooks 
 * [Joins](notebooks/Joins.ipynb)
 * [GroupBy](notebooks/GroupBy.ipynb)
+* [Indexes](notebooks/Indexes.ipynb)
+* [Using BLOBS](notebooks/Using-BLOBs.ipynb)
 
 Advanced Queries: 
 
@@ -168,7 +170,7 @@ Advanced Queries:
 
 Reading: Harrington  Chapters 16-19
 
-* [Assignment 6](Assign6.md) -- Due Oct 13 
+* [Assignment 6](Assign6.md) -- Due Oct 20 
 * [Assignment 7](Assign7.md) -- Due Oct 20 
 
 ## Weeks 9, 10 (Oct 25, Nov 2, Nov 9)
