@@ -43,7 +43,7 @@ Additional slides and notes will be provided in class.
 
 
 ## Grading 
-8 Assignments/Projects
+10-12 Assignments/Projects
 
 |grade| percent |
 |---|---|
@@ -161,6 +161,7 @@ Notebooks
 * [GroupBy](notebooks/GroupBy.ipynb)
 * [Indexes](notebooks/Indexes.ipynb)
 * [Using BLOBS](notebooks/Using-BLOBs.ipynb)
+* [Division](notebooks/Relational-Division.ipynb)
 
 Advanced Queries: 
 
