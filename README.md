@@ -173,7 +173,7 @@ Reading: Harrington  Chapters 16-19
 
 * [Assignment 6](Assign6.md) -- Due Oct 20 
 * [Assignment 7](Assign7.md) -- Due Oct 27 
-* [Assignment 8 -- WIP](Assign8.md) -- Due Oct 27
+* [Assignment 8](Assign8.md) -- Due Nov 3
 
 ## Weeks 9, 10 (Oct 25, Nov 1, Nov 8)
 
@@ -190,8 +190,8 @@ Modeling relationships:
 
 Transaction processing.
 
-* [Assignment 9 -- WIP](Assign9.md) -- Due Nov 3
-* [Assignment 10 -- WIP](AssignA.md) -- Due Nov 10
+* [Assignment 9 -- WIP](Assign9.md) -- Due Nov 10 
+* [Assignment 10 -- WIP](AssignA.md) -- Due Nov 17
 
 Reading: 
 
@@ -201,7 +201,6 @@ Reading:
 ## Weeks 10-11 (Nov 15, Nov 22):
 Putting it all together. Practical examples
 
-* [Assignment 11 -- WIP](AssignB.md) -- Due Nov 17
 * [Final](Final.md) -- Due Dec 12 
 
 Practice projects. Final Project
