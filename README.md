@@ -190,6 +190,8 @@ Modeling relationships:
 
 Transaction processing.
 
+* [Hotel Database](notebooks/Hotel.ipynb) -- a sample database project solution.
+
 * [Assignment 9](Assign9.md) -- Due Nov 10 
 
 Reading: 
