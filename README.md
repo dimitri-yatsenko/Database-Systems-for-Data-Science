@@ -190,8 +190,7 @@ Modeling relationships:
 
 Transaction processing.
 
-* [Assignment 9 -- WIP](Assign9.md) -- Due Nov 10 
-* [Assignment 10 -- WIP](AssignA.md) -- Due Nov 17
+* [Assignment 9](Assign9.md) -- Due Nov 10 
 
 Reading: 
 
