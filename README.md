@@ -203,6 +203,8 @@ Reading:
 ## Weeks 11-13 (Nov 15 --- no lecture, work on Final; Nov 22, Nov 29):
 Putting it all together. Practical examples
 
+Final: Design due on Nov 27.  Complete submission Dec 13.
+
 * [Final - option 1](Final.md) -- Due Dec 6 
 * [Final - option 2](Final2.md) -- Due Dec 6
 
