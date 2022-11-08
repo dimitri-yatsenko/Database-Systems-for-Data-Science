@@ -191,6 +191,7 @@ Modeling relationships:
 Transaction processing.
 
 * [Hotel Database](notebooks/Hotel.ipynb) -- a sample database project solution.
+* [Design Patterns](notebooks/DesignPatterns.ipynb)
 
 * [Assignment 9](Assign9.md) -- Due Nov 10 
 
@@ -199,9 +200,10 @@ Reading:
 * Harrington: Chapters 13, 14, 15 (case studies), 22 (concurrency and transactions)
 
 
-## Weeks 10-11 (Nov 15, Nov 22):
+## Weeks 11-13 (Nov 15 --- no lecture, work on Final; Nov 22, Nov 29):
 Putting it all together. Practical examples
 
-* [Final](Final.md) -- Due Dec 12 
+* [Final - option 1](Final.md) -- Due Dec 6 
+* [Final - option 2](Final2.md) -- Due Dec 6
 
 Practice projects. Final Project
