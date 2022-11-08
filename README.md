@@ -193,7 +193,7 @@ Transaction processing.
 * [Hotel Database](notebooks/Hotel.ipynb) -- a sample database project solution.
 * [Design Patterns](notebooks/DesignPatterns.ipynb)
 
-* [Assignment 9](Assign9.md) -- Due Nov 10 
+* [Assignment 9](Assign9.md) -- Due Nov 17 
 
 Reading: 
 
