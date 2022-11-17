@@ -205,7 +205,5 @@ Putting it all together. Practical examples
 
 Final: Design due on Nov 27.  Complete submission Dec 13.
 
-* [Final - option 1](Final.md) -- Due Dec 6 
-* [Final - option 2](Final2.md) -- Due Dec 6
+* [Final-2022](Final-2022.md) 
 
-Practice projects. Final Project
