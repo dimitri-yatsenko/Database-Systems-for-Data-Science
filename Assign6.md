@@ -25,7 +25,7 @@ The queries will NOT require outer joins or `GROUP BY` clauses.
 
 4. Display all products and their categories.
 
-5. Display the product names, number ordered, and total  mount owed for each item  on order 160.
+5. Display the product names, number ordered, and total amount for each item  on order 160.
 
 6. Display all customers who have ever ordered a bicycle .
 
