@@ -1,9 +1,7 @@
-# Database-Systems-for-Data-Science (Fall 2022)
+# Database-Systems-for-Data-Science (Fall 2023)
 **MS Applied Data Science**
 
 **Instructor:** Dimitri Yatsenko, Ph.D.
-
-**TA:** Juan Gallegos
 
 ## Syllabus
 
@@ -16,7 +14,7 @@ The course will include practical exercises and will be graded based on several 
 
 ## Class and attendance
 
-Class participation is required and much of the material will be presented. The class will be held in room Malloy 241 and also broadcast in Zoom.
+Class participation is required and much of the material will be presented in class only. The class will be held in room Malloy 024 and also broadcast in Zoom.
 We will also use a Slack channel. If you have not received access to any of these resources, please notify your instructor.
 
 ## Textbook 
