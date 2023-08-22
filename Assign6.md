@@ -1,11 +1,9 @@
 # Queries with inner joins
 
-This is a group project. Query the `shared_projects` to find your teammates.
-
 In this assignment, you will make queries from shared databases:
-1. Sakila database: `shared_sakila`
+
+1. Sakila database `shared_sakila`
 2. Sales database: `shared_sales`
-3. Hotel database: `shared_hotel` or any of the `hw4_*` databases submitted by teams in homework 4, even your own.
 
 Write all queries in SQL. Use `SHOW TABLES` and `SHOW CREATE TABLE` statements to understand the schema.
 
@@ -15,9 +13,7 @@ Some queries will require `ORDER BY` and `LIMIT` clauses but will NOT  require a
 
 The queries will NOT require outer joins or `GROUP BY` clauses.
 
-
-
-## Sakila
+## Database `shared_sakila`
 
 1. List all stores including their full address and their manager names. 
 
@@ -25,39 +21,45 @@ The queries will NOT require outer joins or `GROUP BY` clauses.
 
 3. List all customers who have made single payments of $11.00 or more.
 
-## Sales 
+## Database `shared_sales`
 
-4. Display all products and their categories
+4. Display all products and their categories.
 
-5. Display the product names, number ordered, and total  mount owed for each item  on order 160
+5. Display the product names, number ordered, and total amount for each item  on order 160.
 
-6. Display all customers who have ever ordered a bicycle 
+6. Display all customers who have ever ordered a bicycle .
 
-7. Display the names of products that have never been ordered
+7. Display the names of products that have never been ordered.
 
-8. Display the names of customers who have never ordered anything
+8. Display the names of customers who have never ordered anything.
 
-9. Show the customer/employee pairs who share the same last names
+9. Show the customer/employee pairs who share the same last names.
 
-10. Show the names of all  vendors who sell clothing
+10. Show the names of all  vendors who sell clothing.
 
-11. Show all products that have not sold since the end of 2017
+11. Show all products that have not sold since the end of 2017.
 
-12. Show all product names offered by Texas vendors
+12. Show all product names offered by Texas vendors.
 
-13. Show the name of the  customer who ordered a bicycle most recently
+13. Show the name of the  customer who ordered a bicycle most recently.
 
-14. Show the name of the vendor who sells the most expensive product
+14. Show the name of the vendor who sells the most expensive product.
 
 
-## Hotel
+## Database `shared_world`
 
-15. Show the rooms that have never been reserved
+15. Show all countries where more than 25% of the population speak Spanish. 
 
-16. Show the names of guests who have made reservations but have not checked in.
 
-17. Show the names of guests who have checked into Deluxe rooms and have not yet checked out.
+## Database `shared_airport`
 
-18. Show the names of the 10 guests who checked in most recently.
+16. List all airlines including the names of their home aiport. 
 
+17. List all flights scheduled to depart from the Airport named "LA SARRE".
+
+18. List all flights that departed from LA SARRE in September 2015.
+
+19. List the types of airplanes that have have ever departed from LA SARRE.
+
+20. List the types of airplaes that have never flown.
 
